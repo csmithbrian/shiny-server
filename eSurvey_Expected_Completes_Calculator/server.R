@@ -135,7 +135,7 @@ shinyServer(function(input, output) {
       sms_noncompletes <- round(sms-sms_completes)
       non_completes <- totalvolume-(email_completes-sms_completes)
       colors1 <- c("#66CC99","#0eaf5f")
-      plotDF <- data.frame('Sample'=c('Patients','Patients'),'Category'=c("Expected Total Email Completes","Expected Total SMS Completes"),"Volume"=c(email_completes,sms_completes))
+      plotDF <- data.frame('Sample'=c('Completes','Completes'),'Category'=c("Expected Total Email Completes","Expected Total SMS Completes"),"Volume"=c(email_completes,sms_completes))
     }
     else{ #eSurvey only
       no_contact <- round(eligibles-email)
