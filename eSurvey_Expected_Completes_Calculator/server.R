@@ -137,10 +137,10 @@ shinyServer(function(input, output) {
       plotDF <- data.frame('Sample'=c('Completes','Completes'),'Category'=c("Expected Total Email Completes","Expected Total SMS Completes"),"Volume"=c(email_completes,sms_completes))
     }
     else{ #eSurvey only
-      no_contact <- round(eligibles-email)
-      non_completes <- totalvolume-as.numeric(email_completes)
-      colors1 <- c("#CC6666","#66CC99")
-      plotDF <- data.frame('Sample'=c('Patients','Patients'),'Category'=c("Expected Non-Completes","Expected Total Completes"),"Volume"=c(non_completes,email_completes))
+      #no_contact <- round(eligibles-email)
+      #non_completes <- totalvolume-as.numeric(email_completes)
+      #colors1 <- c("#CC6666","#66CC99")
+      #plotDF <- data.frame('Sample'=c('Patients','Patients'),'Category'=c("Expected Non-Completes","Expected Total Completes"),"Volume"=c(non_completes,email_completes))
     }  
     #PLOT
     ggplot(plotDF, aes(Sample,Volume,fill=Category)) +
