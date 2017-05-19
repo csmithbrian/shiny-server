@@ -135,6 +135,8 @@ shinyServer(function(input, output) {
       non_completes <- totalvolume-(email_completes-sms_completes)
       colors1 <- c("#66CC99","#0eaf5f")
       plotDF <- data.frame('Sample'=c('Completes','Completes'),'Category'=c("Expected Total Email Completes","Expected Total SMS Completes"),"Volume"=c(email_completes,sms_completes))
+      ggplot(plotDF, aes(Sample,Volume,fill=Category)) +
+        geom_bar(stat = "identity",width = .2) + coord_flip() + scale_fill_manual(values=colors1)+ theme(legend.position= "right",panel.grid.major = element_blank(),panel.grid.minor = element_blank(),panel.background = element_blank(),legend.title = element_blank(),axis.title.x = element_blank(),axis.title.y=element_blank())
     }
     else{ #eSurvey only
       #no_contact <- round(eligibles-email)
@@ -143,8 +145,7 @@ shinyServer(function(input, output) {
       #plotDF <- data.frame('Sample'=c('Patients','Patients'),'Category'=c("Expected Non-Completes","Expected Total Completes"),"Volume"=c(non_completes,email_completes))
     }  
     #PLOT
-    ggplot(plotDF, aes(Sample,Volume,fill=Category)) +
-             geom_bar(stat = "identity",width = .2) + coord_flip() + scale_fill_manual(values=colors1)+ theme(legend.position= "right",panel.grid.major = element_blank(),panel.grid.minor = element_blank(),panel.background = element_blank(),legend.title = element_blank(),axis.title.x = element_blank(),axis.title.y=element_blank())
+    
   })
   
   
