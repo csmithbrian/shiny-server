@@ -14,7 +14,7 @@ question_dropdown <- c("Overall Rating","Likelihood to Recommend","Employee Sati
 surveys <- c('Inpatient','Outpatient','ED','OP SDS/ASC','CGCAHPS(Phone 12M)','CGCAHPS(Phone Visit)','CGCAHPS(eSurvey 12M)','CGCAHPS(eSurvey Visit)','CG-CAHPS Visit Child','CG-CAHPS ACO','Adult PCMH','Child PCMH','Home Health','OP Behavioral','IP Behavioral','IP Rehab','OP Rehab','ED Peds','OP Peds','IP Peds','NICU','PCA','Hemodialysis','Urgent Care','Walk-In Clinic','IP Long term Care','Employee Insights','Physician Insights')
 surveygroups <- data.frame(survey=surveys,group=c('Inpatient','OP / SDS','ED','OP / SDS','CG','CG','CG','CG','CG','CG','CG','CG','Other Patient','Other Patient','Other Patient','Inpatient','OP / SDS','ED','OP / SDS','Inpatient','Other Patient','Other Patient','Other Patient','ED','Other Patient','Other Patient','Employee','Physician'))
 
-goals_lookup <- read.csv("T:/Users/BrianS/Sandbox/Goal Setting/lookup.csv")
+goals_lookup <- read.csv("lookup.csv")
 
 
 
