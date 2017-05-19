@@ -118,6 +118,7 @@ shinyServer(function(input, output) {
   
   output$completesBar <- renderPlot({
     totalvolume <- as.integer(input$sample)
+    limit_right <- round(totalvolume*.1)
     emailrate <- input$emailcapturerate
     mobilerate <- input$mobilecapturerate
     ineligiblerate <- ineligibles$Rate[which(ineligibles$SurvType==input$surveytype & ineligibles$Methodology==input$methodology)]
@@ -135,8 +136,8 @@ shinyServer(function(input, output) {
       non_completes <- totalvolume-(email_completes-sms_completes)
       colors1 <- c("#66CC99","#0eaf5f")
       plotDF <- data.frame('Sample'=c('Completes','Completes'),'Category'=c("Expected Total Email Completes","Expected Total SMS Completes"),"Volume"=c(email_completes,sms_completes))
-      ggplot(plotDF, aes(Sample,Volume,fill=Category)) +
-        geom_bar(stat = "identity",width = .2) + coord_flip() + scale_fill_manual(values=colors1)+ theme(legend.position= "right",panel.grid.major = element_blank(),panel.grid.minor = element_blank(),panel.background = element_blank(),legend.title = element_blank(),axis.title.x = element_blank(),axis.title.y=element_blank())
+      ggplot(plotDF, aes(Sample,as.numeric(Volume),fill=Category)) +
+        geom_bar(stat = "identity",width = .2) + coord_flip() + scale_fill_manual(values=colors1)+ scale_y_continuous(limits = c(0,limit_right))+ theme(legend.position= "right",panel.grid.major = element_blank(),panel.grid.minor = element_blank(),panel.background = element_blank(),legend.title = element_blank(),axis.title.x = element_blank(),axis.title.y=element_blank())
     }
     else{ #eSurvey only
       #no_contact <- round(eligibles-email)
