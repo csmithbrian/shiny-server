@@ -10,7 +10,6 @@
 #this gives the impression that ineligibles are much higher for sms, which is not the case.
 
 library(shiny)
-#install.packages('networkD3')
 library(networkD3)
 library(ggplot2)
 

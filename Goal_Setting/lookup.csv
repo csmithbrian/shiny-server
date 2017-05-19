@@ -1,0 +1,1901 @@
+SurveyType,Question,Percentile,Goal_Standard,Goal_Aggressive,Goal_Stretch
+CG,Likelihood to Recommend,0,3.80%,5.40%,7.40%
+CG,Likelihood to Recommend,1,3.80%,5.40%,7.40%
+CG,Likelihood to Recommend,2,3.80%,5.40%,7.40%
+CG,Likelihood to Recommend,3,3.80%,5.40%,7.40%
+CG,Likelihood to Recommend,4,3.80%,5.40%,7.40%
+CG,Likelihood to Recommend,5,3.80%,5.40%,7.40%
+CG,Likelihood to Recommend,6,3.80%,5.40%,7.40%
+CG,Likelihood to Recommend,7,3.80%,5.40%,7.40%
+CG,Likelihood to Recommend,8,3.80%,5.40%,7.40%
+CG,Likelihood to Recommend,9,3.80%,5.40%,7.40%
+CG,Likelihood to Recommend,10,3.40%,4.90%,6.70%
+CG,Likelihood to Recommend,11,3.40%,4.90%,6.70%
+CG,Likelihood to Recommend,12,3.40%,4.90%,6.70%
+CG,Likelihood to Recommend,13,3.40%,4.90%,6.70%
+CG,Likelihood to Recommend,14,3.40%,4.90%,6.70%
+CG,Likelihood to Recommend,15,3.40%,4.90%,6.70%
+CG,Likelihood to Recommend,16,3.40%,4.90%,6.70%
+CG,Likelihood to Recommend,17,3.40%,4.90%,6.70%
+CG,Likelihood to Recommend,18,3.40%,4.90%,6.70%
+CG,Likelihood to Recommend,19,3.40%,4.90%,6.70%
+CG,Likelihood to Recommend,20,3.00%,4.40%,6.10%
+CG,Likelihood to Recommend,21,3.00%,4.40%,6.10%
+CG,Likelihood to Recommend,22,3.00%,4.40%,6.10%
+CG,Likelihood to Recommend,23,3.00%,4.40%,6.10%
+CG,Likelihood to Recommend,24,3.00%,4.40%,6.10%
+CG,Likelihood to Recommend,25,3.00%,4.40%,6.10%
+CG,Likelihood to Recommend,26,3.00%,4.40%,6.10%
+CG,Likelihood to Recommend,27,3.00%,4.40%,6.10%
+CG,Likelihood to Recommend,28,3.00%,4.40%,6.10%
+CG,Likelihood to Recommend,29,3.00%,4.40%,6.10%
+CG,Likelihood to Recommend,30,2.60%,4.00%,5.40%
+CG,Likelihood to Recommend,31,2.60%,4.00%,5.40%
+CG,Likelihood to Recommend,32,2.60%,4.00%,5.40%
+CG,Likelihood to Recommend,33,2.60%,4.00%,5.40%
+CG,Likelihood to Recommend,34,2.60%,4.00%,5.40%
+CG,Likelihood to Recommend,35,2.60%,4.00%,5.40%
+CG,Likelihood to Recommend,36,2.60%,4.00%,5.40%
+CG,Likelihood to Recommend,37,2.60%,4.00%,5.40%
+CG,Likelihood to Recommend,38,2.60%,4.00%,5.40%
+CG,Likelihood to Recommend,39,2.60%,4.00%,5.40%
+CG,Likelihood to Recommend,40,2.20%,3.50%,4.80%
+CG,Likelihood to Recommend,41,2.20%,3.50%,4.80%
+CG,Likelihood to Recommend,42,2.20%,3.50%,4.80%
+CG,Likelihood to Recommend,43,2.20%,3.50%,4.80%
+CG,Likelihood to Recommend,44,2.20%,3.50%,4.80%
+CG,Likelihood to Recommend,45,2.20%,3.50%,4.80%
+CG,Likelihood to Recommend,46,2.20%,3.50%,4.80%
+CG,Likelihood to Recommend,47,2.20%,3.50%,4.80%
+CG,Likelihood to Recommend,48,2.20%,3.50%,4.80%
+CG,Likelihood to Recommend,49,2.20%,3.50%,4.80%
+CG,Likelihood to Recommend,50,1.90%,3.00%,4.10%
+CG,Likelihood to Recommend,51,1.90%,3.00%,4.10%
+CG,Likelihood to Recommend,52,1.90%,3.00%,4.10%
+CG,Likelihood to Recommend,53,1.90%,3.00%,4.10%
+CG,Likelihood to Recommend,54,1.90%,3.00%,4.10%
+CG,Likelihood to Recommend,55,1.90%,3.00%,4.10%
+CG,Likelihood to Recommend,56,1.90%,3.00%,4.10%
+CG,Likelihood to Recommend,57,1.90%,3.00%,4.10%
+CG,Likelihood to Recommend,58,1.90%,3.00%,4.10%
+CG,Likelihood to Recommend,59,1.90%,3.00%,4.10%
+CG,Likelihood to Recommend,60,1.40%,2.30%,3.20%
+CG,Likelihood to Recommend,61,1.40%,2.30%,3.20%
+CG,Likelihood to Recommend,62,1.40%,2.30%,3.20%
+CG,Likelihood to Recommend,63,1.40%,2.30%,3.20%
+CG,Likelihood to Recommend,64,1.40%,2.30%,3.20%
+CG,Likelihood to Recommend,65,1.40%,2.30%,3.20%
+CG,Likelihood to Recommend,66,1.40%,2.30%,3.20%
+CG,Likelihood to Recommend,67,1.40%,2.30%,3.20%
+CG,Likelihood to Recommend,68,1.40%,2.30%,3.20%
+CG,Likelihood to Recommend,69,1.40%,2.30%,3.20%
+CG,Likelihood to Recommend,70,0.90%,1.70%,2.30%
+CG,Likelihood to Recommend,71,0.90%,1.70%,2.30%
+CG,Likelihood to Recommend,72,0.90%,1.70%,2.30%
+CG,Likelihood to Recommend,73,0.90%,1.70%,2.30%
+CG,Likelihood to Recommend,74,0.90%,1.70%,2.30%
+CG,Likelihood to Recommend,75,0.90%,1.70%,2.30%
+CG,Likelihood to Recommend,76,0.90%,1.70%,2.30%
+CG,Likelihood to Recommend,77,0.90%,1.70%,2.30%
+CG,Likelihood to Recommend,78,0.90%,1.70%,2.30%
+CG,Likelihood to Recommend,79,0.90%,1.70%,2.30%
+CG,Likelihood to Recommend,80,0.50%,1.00%,1.40%
+CG,Likelihood to Recommend,81,0.50%,1.00%,1.40%
+CG,Likelihood to Recommend,82,0.50%,1.00%,1.40%
+CG,Likelihood to Recommend,83,0.50%,1.00%,1.40%
+CG,Likelihood to Recommend,84,0.50%,1.00%,1.40%
+CG,Likelihood to Recommend,85,0.50%,1.00%,1.40%
+CG,Likelihood to Recommend,86,0.50%,1.00%,1.40%
+CG,Likelihood to Recommend,87,0.50%,1.00%,1.40%
+CG,Likelihood to Recommend,88,0.50%,1.00%,1.40%
+CG,Likelihood to Recommend,89,0.50%,1.00%,1.40%
+CG,Likelihood to Recommend,90,0.00%,0.30%,0.50%
+CG,Likelihood to Recommend,91,0.00%,0.30%,0.50%
+CG,Likelihood to Recommend,92,0.00%,0.30%,0.50%
+CG,Likelihood to Recommend,93,0.00%,0.30%,0.50%
+CG,Likelihood to Recommend,94,0.00%,0.30%,0.50%
+CG,Likelihood to Recommend,95,0.00%,0.30%,0.50%
+CG,Likelihood to Recommend,96,0.00%,0.30%,0.50%
+CG,Likelihood to Recommend,97,0.00%,0.30%,0.50%
+CG,Likelihood to Recommend,98,0.00%,0.30%,0.50%
+CG,Likelihood to Recommend,99,0.00%,0.30%,0.50%
+CG,Overall Rating,0,8.30%,12.40%,17.20%
+CG,Overall Rating,1,8.30%,12.40%,17.20%
+CG,Overall Rating,2,8.30%,12.40%,17.20%
+CG,Overall Rating,3,8.30%,12.40%,17.20%
+CG,Overall Rating,4,8.30%,12.40%,17.20%
+CG,Overall Rating,5,8.30%,12.40%,17.20%
+CG,Overall Rating,6,8.30%,12.40%,17.20%
+CG,Overall Rating,7,8.30%,12.40%,17.20%
+CG,Overall Rating,8,8.30%,12.40%,17.20%
+CG,Overall Rating,9,8.30%,12.40%,17.20%
+CG,Overall Rating,10,7.30%,11.00%,15.30%
+CG,Overall Rating,11,7.30%,11.00%,15.30%
+CG,Overall Rating,12,7.30%,11.00%,15.30%
+CG,Overall Rating,13,7.30%,11.00%,15.30%
+CG,Overall Rating,14,7.30%,11.00%,15.30%
+CG,Overall Rating,15,7.30%,11.00%,15.30%
+CG,Overall Rating,16,7.30%,11.00%,15.30%
+CG,Overall Rating,17,7.30%,11.00%,15.30%
+CG,Overall Rating,18,7.30%,11.00%,15.30%
+CG,Overall Rating,19,7.30%,11.00%,15.30%
+CG,Overall Rating,20,6.30%,9.60%,13.50%
+CG,Overall Rating,21,6.30%,9.60%,13.50%
+CG,Overall Rating,22,6.30%,9.60%,13.50%
+CG,Overall Rating,23,6.30%,9.60%,13.50%
+CG,Overall Rating,24,6.30%,9.60%,13.50%
+CG,Overall Rating,25,6.30%,9.60%,13.50%
+CG,Overall Rating,26,6.30%,9.60%,13.50%
+CG,Overall Rating,27,6.30%,9.60%,13.50%
+CG,Overall Rating,28,6.30%,9.60%,13.50%
+CG,Overall Rating,29,6.30%,9.60%,13.50%
+CG,Overall Rating,30,5.30%,8.20%,11.60%
+CG,Overall Rating,31,5.30%,8.20%,11.60%
+CG,Overall Rating,32,5.30%,8.20%,11.60%
+CG,Overall Rating,33,5.30%,8.20%,11.60%
+CG,Overall Rating,34,5.30%,8.20%,11.60%
+CG,Overall Rating,35,5.30%,8.20%,11.60%
+CG,Overall Rating,36,5.30%,8.20%,11.60%
+CG,Overall Rating,37,5.30%,8.20%,11.60%
+CG,Overall Rating,38,5.30%,8.20%,11.60%
+CG,Overall Rating,39,5.30%,8.20%,11.60%
+CG,Overall Rating,40,4.30%,6.80%,9.80%
+CG,Overall Rating,41,4.30%,6.80%,9.80%
+CG,Overall Rating,42,4.30%,6.80%,9.80%
+CG,Overall Rating,43,4.30%,6.80%,9.80%
+CG,Overall Rating,44,4.30%,6.80%,9.80%
+CG,Overall Rating,45,4.30%,6.80%,9.80%
+CG,Overall Rating,46,4.30%,6.80%,9.80%
+CG,Overall Rating,47,4.30%,6.80%,9.80%
+CG,Overall Rating,48,4.30%,6.80%,9.80%
+CG,Overall Rating,49,4.30%,6.80%,9.80%
+CG,Overall Rating,50,3.30%,5.50%,7.90%
+CG,Overall Rating,51,3.30%,5.50%,7.90%
+CG,Overall Rating,52,3.30%,5.50%,7.90%
+CG,Overall Rating,53,3.30%,5.50%,7.90%
+CG,Overall Rating,54,3.30%,5.50%,7.90%
+CG,Overall Rating,55,3.30%,5.50%,7.90%
+CG,Overall Rating,56,3.30%,5.50%,7.90%
+CG,Overall Rating,57,3.30%,5.50%,7.90%
+CG,Overall Rating,58,3.30%,5.50%,7.90%
+CG,Overall Rating,59,3.30%,5.50%,7.90%
+CG,Overall Rating,60,2.40%,4.40%,6.50%
+CG,Overall Rating,61,2.40%,4.40%,6.50%
+CG,Overall Rating,62,2.40%,4.40%,6.50%
+CG,Overall Rating,63,2.40%,4.40%,6.50%
+CG,Overall Rating,64,2.40%,4.40%,6.50%
+CG,Overall Rating,65,2.40%,4.40%,6.50%
+CG,Overall Rating,66,2.40%,4.40%,6.50%
+CG,Overall Rating,67,2.40%,4.40%,6.50%
+CG,Overall Rating,68,2.40%,4.40%,6.50%
+CG,Overall Rating,69,2.40%,4.40%,6.50%
+CG,Overall Rating,70,1.60%,3.20%,5.00%
+CG,Overall Rating,71,1.60%,3.20%,5.00%
+CG,Overall Rating,72,1.60%,3.20%,5.00%
+CG,Overall Rating,73,1.60%,3.20%,5.00%
+CG,Overall Rating,74,1.60%,3.20%,5.00%
+CG,Overall Rating,75,1.60%,3.20%,5.00%
+CG,Overall Rating,76,1.60%,3.20%,5.00%
+CG,Overall Rating,77,1.60%,3.20%,5.00%
+CG,Overall Rating,78,1.60%,3.20%,5.00%
+CG,Overall Rating,79,1.60%,3.20%,5.00%
+CG,Overall Rating,80,0.80%,2.10%,3.50%
+CG,Overall Rating,81,0.80%,2.10%,3.50%
+CG,Overall Rating,82,0.80%,2.10%,3.50%
+CG,Overall Rating,83,0.80%,2.10%,3.50%
+CG,Overall Rating,84,0.80%,2.10%,3.50%
+CG,Overall Rating,85,0.80%,2.10%,3.50%
+CG,Overall Rating,86,0.80%,2.10%,3.50%
+CG,Overall Rating,87,0.80%,2.10%,3.50%
+CG,Overall Rating,88,0.80%,2.10%,3.50%
+CG,Overall Rating,89,0.80%,2.10%,3.50%
+CG,Overall Rating,90,0.00%,1.00%,2.10%
+CG,Overall Rating,91,0.00%,1.00%,2.10%
+CG,Overall Rating,92,0.00%,1.00%,2.10%
+CG,Overall Rating,93,0.00%,1.00%,2.10%
+CG,Overall Rating,94,0.00%,1.00%,2.10%
+CG,Overall Rating,95,0.00%,1.00%,2.10%
+CG,Overall Rating,96,0.00%,1.00%,2.10%
+CG,Overall Rating,97,0.00%,1.00%,2.10%
+CG,Overall Rating,98,0.00%,1.00%,2.10%
+CG,Overall Rating,99,0.00%,1.00%,2.10%
+CG,Other,0,4.30%,6.40%,8.70%
+CG,Other,1,4.30%,6.40%,8.70%
+CG,Other,2,4.30%,6.40%,8.70%
+CG,Other,3,4.30%,6.40%,8.70%
+CG,Other,4,4.30%,6.40%,8.70%
+CG,Other,5,4.30%,6.40%,8.70%
+CG,Other,6,4.30%,6.40%,8.70%
+CG,Other,7,4.30%,6.40%,8.70%
+CG,Other,8,4.30%,6.40%,8.70%
+CG,Other,9,4.30%,6.40%,8.70%
+CG,Other,10,3.90%,5.90%,8.00%
+CG,Other,11,3.90%,5.90%,8.00%
+CG,Other,12,3.90%,5.90%,8.00%
+CG,Other,13,3.90%,5.90%,8.00%
+CG,Other,14,3.90%,5.90%,8.00%
+CG,Other,15,3.90%,5.90%,8.00%
+CG,Other,16,3.90%,5.90%,8.00%
+CG,Other,17,3.90%,5.90%,8.00%
+CG,Other,18,3.90%,5.90%,8.00%
+CG,Other,19,3.90%,5.90%,8.00%
+CG,Other,20,3.60%,5.40%,7.30%
+CG,Other,21,3.60%,5.40%,7.30%
+CG,Other,22,3.60%,5.40%,7.30%
+CG,Other,23,3.60%,5.40%,7.30%
+CG,Other,24,3.60%,5.40%,7.30%
+CG,Other,25,3.60%,5.40%,7.30%
+CG,Other,26,3.60%,5.40%,7.30%
+CG,Other,27,3.60%,5.40%,7.30%
+CG,Other,28,3.60%,5.40%,7.30%
+CG,Other,29,3.60%,5.40%,7.30%
+CG,Other,30,3.20%,4.90%,6.60%
+CG,Other,31,3.20%,4.90%,6.60%
+CG,Other,32,3.20%,4.90%,6.60%
+CG,Other,33,3.20%,4.90%,6.60%
+CG,Other,34,3.20%,4.90%,6.60%
+CG,Other,35,3.20%,4.90%,6.60%
+CG,Other,36,3.20%,4.90%,6.60%
+CG,Other,37,3.20%,4.90%,6.60%
+CG,Other,38,3.20%,4.90%,6.60%
+CG,Other,39,3.20%,4.90%,6.60%
+CG,Other,40,2.80%,4.40%,6.00%
+CG,Other,41,2.80%,4.40%,6.00%
+CG,Other,42,2.80%,4.40%,6.00%
+CG,Other,43,2.80%,4.40%,6.00%
+CG,Other,44,2.80%,4.40%,6.00%
+CG,Other,45,2.80%,4.40%,6.00%
+CG,Other,46,2.80%,4.40%,6.00%
+CG,Other,47,2.80%,4.40%,6.00%
+CG,Other,48,2.80%,4.40%,6.00%
+CG,Other,49,2.80%,4.40%,6.00%
+CG,Other,50,2.50%,3.90%,5.30%
+CG,Other,51,2.50%,3.90%,5.30%
+CG,Other,52,2.50%,3.90%,5.30%
+CG,Other,53,2.50%,3.90%,5.30%
+CG,Other,54,2.50%,3.90%,5.30%
+CG,Other,55,2.50%,3.90%,5.30%
+CG,Other,56,2.50%,3.90%,5.30%
+CG,Other,57,2.50%,3.90%,5.30%
+CG,Other,58,2.50%,3.90%,5.30%
+CG,Other,59,2.50%,3.90%,5.30%
+CG,Other,60,1.80%,3.10%,4.30%
+CG,Other,61,1.80%,3.10%,4.30%
+CG,Other,62,1.80%,3.10%,4.30%
+CG,Other,63,1.80%,3.10%,4.30%
+CG,Other,64,1.80%,3.10%,4.30%
+CG,Other,65,1.80%,3.10%,4.30%
+CG,Other,66,1.80%,3.10%,4.30%
+CG,Other,67,1.80%,3.10%,4.30%
+CG,Other,68,1.80%,3.10%,4.30%
+CG,Other,69,1.80%,3.10%,4.30%
+CG,Other,70,1.20%,2.40%,3.20%
+CG,Other,71,1.20%,2.40%,3.20%
+CG,Other,72,1.20%,2.40%,3.20%
+CG,Other,73,1.20%,2.40%,3.20%
+CG,Other,74,1.20%,2.40%,3.20%
+CG,Other,75,1.20%,2.40%,3.20%
+CG,Other,76,1.20%,2.40%,3.20%
+CG,Other,77,1.20%,2.40%,3.20%
+CG,Other,78,1.20%,2.40%,3.20%
+CG,Other,79,1.20%,2.40%,3.20%
+CG,Other,80,0.60%,1.60%,2.20%
+CG,Other,81,0.60%,1.60%,2.20%
+CG,Other,82,0.60%,1.60%,2.20%
+CG,Other,83,0.60%,1.60%,2.20%
+CG,Other,84,0.60%,1.60%,2.20%
+CG,Other,85,0.60%,1.60%,2.20%
+CG,Other,86,0.60%,1.60%,2.20%
+CG,Other,87,0.60%,1.60%,2.20%
+CG,Other,88,0.60%,1.60%,2.20%
+CG,Other,89,0.60%,1.60%,2.20%
+CG,Other,90,0.00%,0.90%,1.20%
+CG,Other,91,0.00%,0.90%,1.20%
+CG,Other,92,0.00%,0.90%,1.20%
+CG,Other,93,0.00%,0.90%,1.20%
+CG,Other,94,0.00%,0.90%,1.20%
+CG,Other,95,0.00%,0.90%,1.20%
+CG,Other,96,0.00%,0.90%,1.20%
+CG,Other,97,0.00%,0.90%,1.20%
+CG,Other,98,0.00%,0.90%,1.20%
+CG,Other,99,0.00%,0.90%,1.20%
+ED,Likelihood to Recommend,0,2.90%,5.20%,8.20%
+ED,Likelihood to Recommend,1,2.90%,5.20%,8.20%
+ED,Likelihood to Recommend,2,2.90%,5.20%,8.20%
+ED,Likelihood to Recommend,3,2.90%,5.20%,8.20%
+ED,Likelihood to Recommend,4,2.90%,5.20%,8.20%
+ED,Likelihood to Recommend,5,2.90%,5.20%,8.20%
+ED,Likelihood to Recommend,6,2.90%,5.20%,8.20%
+ED,Likelihood to Recommend,7,2.90%,5.20%,8.20%
+ED,Likelihood to Recommend,8,2.90%,5.20%,8.20%
+ED,Likelihood to Recommend,9,2.90%,5.20%,8.20%
+ED,Likelihood to Recommend,10,2.90%,5.10%,8.10%
+ED,Likelihood to Recommend,11,2.90%,5.10%,8.10%
+ED,Likelihood to Recommend,12,2.90%,5.10%,8.10%
+ED,Likelihood to Recommend,13,2.90%,5.10%,8.10%
+ED,Likelihood to Recommend,14,2.90%,5.10%,8.10%
+ED,Likelihood to Recommend,15,2.90%,5.10%,8.10%
+ED,Likelihood to Recommend,16,2.90%,5.10%,8.10%
+ED,Likelihood to Recommend,17,2.90%,5.10%,8.10%
+ED,Likelihood to Recommend,18,2.90%,5.10%,8.10%
+ED,Likelihood to Recommend,19,2.90%,5.10%,8.10%
+ED,Likelihood to Recommend,20,2.90%,5.10%,7.90%
+ED,Likelihood to Recommend,21,2.90%,5.10%,7.90%
+ED,Likelihood to Recommend,22,2.90%,5.10%,7.90%
+ED,Likelihood to Recommend,23,2.90%,5.10%,7.90%
+ED,Likelihood to Recommend,24,2.90%,5.10%,7.90%
+ED,Likelihood to Recommend,25,2.90%,5.10%,7.90%
+ED,Likelihood to Recommend,26,2.90%,5.10%,7.90%
+ED,Likelihood to Recommend,27,2.90%,5.10%,7.90%
+ED,Likelihood to Recommend,28,2.90%,5.10%,7.90%
+ED,Likelihood to Recommend,29,2.90%,5.10%,7.90%
+ED,Likelihood to Recommend,30,2.90%,5.00%,7.80%
+ED,Likelihood to Recommend,31,2.90%,5.00%,7.80%
+ED,Likelihood to Recommend,32,2.90%,5.00%,7.80%
+ED,Likelihood to Recommend,33,2.90%,5.00%,7.80%
+ED,Likelihood to Recommend,34,2.90%,5.00%,7.80%
+ED,Likelihood to Recommend,35,2.90%,5.00%,7.80%
+ED,Likelihood to Recommend,36,2.90%,5.00%,7.80%
+ED,Likelihood to Recommend,37,2.90%,5.00%,7.80%
+ED,Likelihood to Recommend,38,2.90%,5.00%,7.80%
+ED,Likelihood to Recommend,39,2.90%,5.00%,7.80%
+ED,Likelihood to Recommend,40,2.90%,5.00%,7.60%
+ED,Likelihood to Recommend,41,2.90%,5.00%,7.60%
+ED,Likelihood to Recommend,42,2.90%,5.00%,7.60%
+ED,Likelihood to Recommend,43,2.90%,5.00%,7.60%
+ED,Likelihood to Recommend,44,2.90%,5.00%,7.60%
+ED,Likelihood to Recommend,45,2.90%,5.00%,7.60%
+ED,Likelihood to Recommend,46,2.90%,5.00%,7.60%
+ED,Likelihood to Recommend,47,2.90%,5.00%,7.60%
+ED,Likelihood to Recommend,48,2.90%,5.00%,7.60%
+ED,Likelihood to Recommend,49,2.90%,5.00%,7.60%
+ED,Likelihood to Recommend,50,2.90%,5.00%,7.50%
+ED,Likelihood to Recommend,51,2.90%,5.00%,7.50%
+ED,Likelihood to Recommend,52,2.90%,5.00%,7.50%
+ED,Likelihood to Recommend,53,2.90%,5.00%,7.50%
+ED,Likelihood to Recommend,54,2.90%,5.00%,7.50%
+ED,Likelihood to Recommend,55,2.90%,5.00%,7.50%
+ED,Likelihood to Recommend,56,2.90%,5.00%,7.50%
+ED,Likelihood to Recommend,57,2.90%,5.00%,7.50%
+ED,Likelihood to Recommend,58,2.90%,5.00%,7.50%
+ED,Likelihood to Recommend,59,2.90%,5.00%,7.50%
+ED,Likelihood to Recommend,60,2.20%,4.20%,6.30%
+ED,Likelihood to Recommend,61,2.20%,4.20%,6.30%
+ED,Likelihood to Recommend,62,2.20%,4.20%,6.30%
+ED,Likelihood to Recommend,63,2.20%,4.20%,6.30%
+ED,Likelihood to Recommend,64,2.20%,4.20%,6.30%
+ED,Likelihood to Recommend,65,2.20%,4.20%,6.30%
+ED,Likelihood to Recommend,66,2.20%,4.20%,6.30%
+ED,Likelihood to Recommend,67,2.20%,4.20%,6.30%
+ED,Likelihood to Recommend,68,2.20%,4.20%,6.30%
+ED,Likelihood to Recommend,69,2.20%,4.20%,6.30%
+ED,Likelihood to Recommend,70,1.40%,3.40%,5.20%
+ED,Likelihood to Recommend,71,1.40%,3.40%,5.20%
+ED,Likelihood to Recommend,72,1.40%,3.40%,5.20%
+ED,Likelihood to Recommend,73,1.40%,3.40%,5.20%
+ED,Likelihood to Recommend,74,1.40%,3.40%,5.20%
+ED,Likelihood to Recommend,75,1.40%,3.40%,5.20%
+ED,Likelihood to Recommend,76,1.40%,3.40%,5.20%
+ED,Likelihood to Recommend,77,1.40%,3.40%,5.20%
+ED,Likelihood to Recommend,78,1.40%,3.40%,5.20%
+ED,Likelihood to Recommend,79,1.40%,3.40%,5.20%
+ED,Likelihood to Recommend,80,0.70%,2.70%,4.10%
+ED,Likelihood to Recommend,81,0.70%,2.70%,4.10%
+ED,Likelihood to Recommend,82,0.70%,2.70%,4.10%
+ED,Likelihood to Recommend,83,0.70%,2.70%,4.10%
+ED,Likelihood to Recommend,84,0.70%,2.70%,4.10%
+ED,Likelihood to Recommend,85,0.70%,2.70%,4.10%
+ED,Likelihood to Recommend,86,0.70%,2.70%,4.10%
+ED,Likelihood to Recommend,87,0.70%,2.70%,4.10%
+ED,Likelihood to Recommend,88,0.70%,2.70%,4.10%
+ED,Likelihood to Recommend,89,0.70%,2.70%,4.10%
+ED,Likelihood to Recommend,90,0.00%,1.90%,3.00%
+ED,Likelihood to Recommend,91,0.00%,1.90%,3.00%
+ED,Likelihood to Recommend,92,0.00%,1.90%,3.00%
+ED,Likelihood to Recommend,93,0.00%,1.90%,3.00%
+ED,Likelihood to Recommend,94,0.00%,1.90%,3.00%
+ED,Likelihood to Recommend,95,0.00%,1.90%,3.00%
+ED,Likelihood to Recommend,96,0.00%,1.90%,3.00%
+ED,Likelihood to Recommend,97,0.00%,1.90%,3.00%
+ED,Likelihood to Recommend,98,0.00%,1.90%,3.00%
+ED,Likelihood to Recommend,99,0.00%,1.90%,3.00%
+ED,Overall Rating,0,4.20%,6.50%,9.00%
+ED,Overall Rating,1,4.20%,6.50%,9.00%
+ED,Overall Rating,2,4.20%,6.50%,9.00%
+ED,Overall Rating,3,4.20%,6.50%,9.00%
+ED,Overall Rating,4,4.20%,6.50%,9.00%
+ED,Overall Rating,5,4.20%,6.50%,9.00%
+ED,Overall Rating,6,4.20%,6.50%,9.00%
+ED,Overall Rating,7,4.20%,6.50%,9.00%
+ED,Overall Rating,8,4.20%,6.50%,9.00%
+ED,Overall Rating,9,4.20%,6.50%,9.00%
+ED,Overall Rating,10,3.80%,6.10%,8.50%
+ED,Overall Rating,11,3.80%,6.10%,8.50%
+ED,Overall Rating,12,3.80%,6.10%,8.50%
+ED,Overall Rating,13,3.80%,6.10%,8.50%
+ED,Overall Rating,14,3.80%,6.10%,8.50%
+ED,Overall Rating,15,3.80%,6.10%,8.50%
+ED,Overall Rating,16,3.80%,6.10%,8.50%
+ED,Overall Rating,17,3.80%,6.10%,8.50%
+ED,Overall Rating,18,3.80%,6.10%,8.50%
+ED,Overall Rating,19,3.80%,6.10%,8.50%
+ED,Overall Rating,20,3.50%,5.60%,8.00%
+ED,Overall Rating,21,3.50%,5.60%,8.00%
+ED,Overall Rating,22,3.50%,5.60%,8.00%
+ED,Overall Rating,23,3.50%,5.60%,8.00%
+ED,Overall Rating,24,3.50%,5.60%,8.00%
+ED,Overall Rating,25,3.50%,5.60%,8.00%
+ED,Overall Rating,26,3.50%,5.60%,8.00%
+ED,Overall Rating,27,3.50%,5.60%,8.00%
+ED,Overall Rating,28,3.50%,5.60%,8.00%
+ED,Overall Rating,29,3.50%,5.60%,8.00%
+ED,Overall Rating,30,3.10%,5.20%,7.50%
+ED,Overall Rating,31,3.10%,5.20%,7.50%
+ED,Overall Rating,32,3.10%,5.20%,7.50%
+ED,Overall Rating,33,3.10%,5.20%,7.50%
+ED,Overall Rating,34,3.10%,5.20%,7.50%
+ED,Overall Rating,35,3.10%,5.20%,7.50%
+ED,Overall Rating,36,3.10%,5.20%,7.50%
+ED,Overall Rating,37,3.10%,5.20%,7.50%
+ED,Overall Rating,38,3.10%,5.20%,7.50%
+ED,Overall Rating,39,3.10%,5.20%,7.50%
+ED,Overall Rating,40,2.80%,4.70%,7.00%
+ED,Overall Rating,41,2.80%,4.70%,7.00%
+ED,Overall Rating,42,2.80%,4.70%,7.00%
+ED,Overall Rating,43,2.80%,4.70%,7.00%
+ED,Overall Rating,44,2.80%,4.70%,7.00%
+ED,Overall Rating,45,2.80%,4.70%,7.00%
+ED,Overall Rating,46,2.80%,4.70%,7.00%
+ED,Overall Rating,47,2.80%,4.70%,7.00%
+ED,Overall Rating,48,2.80%,4.70%,7.00%
+ED,Overall Rating,49,2.80%,4.70%,7.00%
+ED,Overall Rating,50,2.40%,4.30%,6.50%
+ED,Overall Rating,51,2.40%,4.30%,6.50%
+ED,Overall Rating,52,2.40%,4.30%,6.50%
+ED,Overall Rating,53,2.40%,4.30%,6.50%
+ED,Overall Rating,54,2.40%,4.30%,6.50%
+ED,Overall Rating,55,2.40%,4.30%,6.50%
+ED,Overall Rating,56,2.40%,4.30%,6.50%
+ED,Overall Rating,57,2.40%,4.30%,6.50%
+ED,Overall Rating,58,2.40%,4.30%,6.50%
+ED,Overall Rating,59,2.40%,4.30%,6.50%
+ED,Overall Rating,60,1.80%,3.60%,5.50%
+ED,Overall Rating,61,1.80%,3.60%,5.50%
+ED,Overall Rating,62,1.80%,3.60%,5.50%
+ED,Overall Rating,63,1.80%,3.60%,5.50%
+ED,Overall Rating,64,1.80%,3.60%,5.50%
+ED,Overall Rating,65,1.80%,3.60%,5.50%
+ED,Overall Rating,66,1.80%,3.60%,5.50%
+ED,Overall Rating,67,1.80%,3.60%,5.50%
+ED,Overall Rating,68,1.80%,3.60%,5.50%
+ED,Overall Rating,69,1.80%,3.60%,5.50%
+ED,Overall Rating,70,1.20%,2.80%,4.40%
+ED,Overall Rating,71,1.20%,2.80%,4.40%
+ED,Overall Rating,72,1.20%,2.80%,4.40%
+ED,Overall Rating,73,1.20%,2.80%,4.40%
+ED,Overall Rating,74,1.20%,2.80%,4.40%
+ED,Overall Rating,75,1.20%,2.80%,4.40%
+ED,Overall Rating,76,1.20%,2.80%,4.40%
+ED,Overall Rating,77,1.20%,2.80%,4.40%
+ED,Overall Rating,78,1.20%,2.80%,4.40%
+ED,Overall Rating,79,1.20%,2.80%,4.40%
+ED,Overall Rating,80,0.60%,2.10%,3.30%
+ED,Overall Rating,81,0.60%,2.10%,3.30%
+ED,Overall Rating,82,0.60%,2.10%,3.30%
+ED,Overall Rating,83,0.60%,2.10%,3.30%
+ED,Overall Rating,84,0.60%,2.10%,3.30%
+ED,Overall Rating,85,0.60%,2.10%,3.30%
+ED,Overall Rating,86,0.60%,2.10%,3.30%
+ED,Overall Rating,87,0.60%,2.10%,3.30%
+ED,Overall Rating,88,0.60%,2.10%,3.30%
+ED,Overall Rating,89,0.60%,2.10%,3.30%
+ED,Overall Rating,90,0.00%,1.30%,2.30%
+ED,Overall Rating,91,0.00%,1.30%,2.30%
+ED,Overall Rating,92,0.00%,1.30%,2.30%
+ED,Overall Rating,93,0.00%,1.30%,2.30%
+ED,Overall Rating,94,0.00%,1.30%,2.30%
+ED,Overall Rating,95,0.00%,1.30%,2.30%
+ED,Overall Rating,96,0.00%,1.30%,2.30%
+ED,Overall Rating,97,0.00%,1.30%,2.30%
+ED,Overall Rating,98,0.00%,1.30%,2.30%
+ED,Overall Rating,99,0.00%,1.30%,2.30%
+ED,Other,0,2.30%,3.90%,5.20%
+ED,Other,1,2.30%,3.90%,5.20%
+ED,Other,2,2.30%,3.90%,5.20%
+ED,Other,3,2.30%,3.90%,5.20%
+ED,Other,4,2.30%,3.90%,5.20%
+ED,Other,5,2.30%,3.90%,5.20%
+ED,Other,6,2.30%,3.90%,5.20%
+ED,Other,7,2.30%,3.90%,5.20%
+ED,Other,8,2.30%,3.90%,5.20%
+ED,Other,9,2.30%,3.90%,5.20%
+ED,Other,10,2.20%,3.80%,5.20%
+ED,Other,11,2.20%,3.80%,5.20%
+ED,Other,12,2.20%,3.80%,5.20%
+ED,Other,13,2.20%,3.80%,5.20%
+ED,Other,14,2.20%,3.80%,5.20%
+ED,Other,15,2.20%,3.80%,5.20%
+ED,Other,16,2.20%,3.80%,5.20%
+ED,Other,17,2.20%,3.80%,5.20%
+ED,Other,18,2.20%,3.80%,5.20%
+ED,Other,19,2.20%,3.80%,5.20%
+ED,Other,20,2.10%,3.70%,5.20%
+ED,Other,21,2.10%,3.70%,5.20%
+ED,Other,22,2.10%,3.70%,5.20%
+ED,Other,23,2.10%,3.70%,5.20%
+ED,Other,24,2.10%,3.70%,5.20%
+ED,Other,25,2.10%,3.70%,5.20%
+ED,Other,26,2.10%,3.70%,5.20%
+ED,Other,27,2.10%,3.70%,5.20%
+ED,Other,28,2.10%,3.70%,5.20%
+ED,Other,29,2.10%,3.70%,5.20%
+ED,Other,30,2.10%,3.60%,5.20%
+ED,Other,31,2.10%,3.60%,5.20%
+ED,Other,32,2.10%,3.60%,5.20%
+ED,Other,33,2.10%,3.60%,5.20%
+ED,Other,34,2.10%,3.60%,5.20%
+ED,Other,35,2.10%,3.60%,5.20%
+ED,Other,36,2.10%,3.60%,5.20%
+ED,Other,37,2.10%,3.60%,5.20%
+ED,Other,38,2.10%,3.60%,5.20%
+ED,Other,39,2.10%,3.60%,5.20%
+ED,Other,40,2.00%,3.50%,5.20%
+ED,Other,41,2.00%,3.50%,5.20%
+ED,Other,42,2.00%,3.50%,5.20%
+ED,Other,43,2.00%,3.50%,5.20%
+ED,Other,44,2.00%,3.50%,5.20%
+ED,Other,45,2.00%,3.50%,5.20%
+ED,Other,46,2.00%,3.50%,5.20%
+ED,Other,47,2.00%,3.50%,5.20%
+ED,Other,48,2.00%,3.50%,5.20%
+ED,Other,49,2.00%,3.50%,5.20%
+ED,Other,50,2.00%,3.40%,5.20%
+ED,Other,51,2.00%,3.40%,5.20%
+ED,Other,52,2.00%,3.40%,5.20%
+ED,Other,53,2.00%,3.40%,5.20%
+ED,Other,54,2.00%,3.40%,5.20%
+ED,Other,55,2.00%,3.40%,5.20%
+ED,Other,56,2.00%,3.40%,5.20%
+ED,Other,57,2.00%,3.40%,5.20%
+ED,Other,58,2.00%,3.40%,5.20%
+ED,Other,59,2.00%,3.40%,5.20%
+ED,Other,60,1.50%,3.00%,4.60%
+ED,Other,61,1.50%,3.00%,4.60%
+ED,Other,62,1.50%,3.00%,4.60%
+ED,Other,63,1.50%,3.00%,4.60%
+ED,Other,64,1.50%,3.00%,4.60%
+ED,Other,65,1.50%,3.00%,4.60%
+ED,Other,66,1.50%,3.00%,4.60%
+ED,Other,67,1.50%,3.00%,4.60%
+ED,Other,68,1.50%,3.00%,4.60%
+ED,Other,69,1.50%,3.00%,4.60%
+ED,Other,70,1.00%,2.70%,4.10%
+ED,Other,71,1.00%,2.70%,4.10%
+ED,Other,72,1.00%,2.70%,4.10%
+ED,Other,73,1.00%,2.70%,4.10%
+ED,Other,74,1.00%,2.70%,4.10%
+ED,Other,75,1.00%,2.70%,4.10%
+ED,Other,76,1.00%,2.70%,4.10%
+ED,Other,77,1.00%,2.70%,4.10%
+ED,Other,78,1.00%,2.70%,4.10%
+ED,Other,79,1.00%,2.70%,4.10%
+ED,Other,80,0.50%,2.30%,3.50%
+ED,Other,81,0.50%,2.30%,3.50%
+ED,Other,82,0.50%,2.30%,3.50%
+ED,Other,83,0.50%,2.30%,3.50%
+ED,Other,84,0.50%,2.30%,3.50%
+ED,Other,85,0.50%,2.30%,3.50%
+ED,Other,86,0.50%,2.30%,3.50%
+ED,Other,87,0.50%,2.30%,3.50%
+ED,Other,88,0.50%,2.30%,3.50%
+ED,Other,89,0.50%,2.30%,3.50%
+ED,Other,90,0.00%,1.90%,3.00%
+ED,Other,91,0.00%,1.90%,3.00%
+ED,Other,92,0.00%,1.90%,3.00%
+ED,Other,93,0.00%,1.90%,3.00%
+ED,Other,94,0.00%,1.90%,3.00%
+ED,Other,95,0.00%,1.90%,3.00%
+ED,Other,96,0.00%,1.90%,3.00%
+ED,Other,97,0.00%,1.90%,3.00%
+ED,Other,98,0.00%,1.90%,3.00%
+ED,Other,99,0.00%,1.90%,3.00%
+Inpatient,Likelihood to Recommend,0,2.20%,2.80%,3.40%
+Inpatient,Likelihood to Recommend,1,2.20%,2.80%,3.40%
+Inpatient,Likelihood to Recommend,2,2.20%,2.80%,3.40%
+Inpatient,Likelihood to Recommend,3,2.20%,2.80%,3.40%
+Inpatient,Likelihood to Recommend,4,2.20%,2.80%,3.40%
+Inpatient,Likelihood to Recommend,5,2.20%,2.80%,3.40%
+Inpatient,Likelihood to Recommend,6,2.20%,2.80%,3.40%
+Inpatient,Likelihood to Recommend,7,2.20%,2.80%,3.40%
+Inpatient,Likelihood to Recommend,8,2.20%,2.80%,3.40%
+Inpatient,Likelihood to Recommend,9,2.20%,2.80%,3.40%
+Inpatient,Likelihood to Recommend,10,2.00%,2.60%,3.10%
+Inpatient,Likelihood to Recommend,11,2.00%,2.60%,3.10%
+Inpatient,Likelihood to Recommend,12,2.00%,2.60%,3.10%
+Inpatient,Likelihood to Recommend,13,2.00%,2.60%,3.10%
+Inpatient,Likelihood to Recommend,14,2.00%,2.60%,3.10%
+Inpatient,Likelihood to Recommend,15,2.00%,2.60%,3.10%
+Inpatient,Likelihood to Recommend,16,2.00%,2.60%,3.10%
+Inpatient,Likelihood to Recommend,17,2.00%,2.60%,3.10%
+Inpatient,Likelihood to Recommend,18,2.00%,2.60%,3.10%
+Inpatient,Likelihood to Recommend,19,2.00%,2.60%,3.10%
+Inpatient,Likelihood to Recommend,20,1.80%,2.30%,2.90%
+Inpatient,Likelihood to Recommend,21,1.80%,2.30%,2.90%
+Inpatient,Likelihood to Recommend,22,1.80%,2.30%,2.90%
+Inpatient,Likelihood to Recommend,23,1.80%,2.30%,2.90%
+Inpatient,Likelihood to Recommend,24,1.80%,2.30%,2.90%
+Inpatient,Likelihood to Recommend,25,1.80%,2.30%,2.90%
+Inpatient,Likelihood to Recommend,26,1.80%,2.30%,2.90%
+Inpatient,Likelihood to Recommend,27,1.80%,2.30%,2.90%
+Inpatient,Likelihood to Recommend,28,1.80%,2.30%,2.90%
+Inpatient,Likelihood to Recommend,29,1.80%,2.30%,2.90%
+Inpatient,Likelihood to Recommend,30,1.60%,2.10%,2.60%
+Inpatient,Likelihood to Recommend,31,1.60%,2.10%,2.60%
+Inpatient,Likelihood to Recommend,32,1.60%,2.10%,2.60%
+Inpatient,Likelihood to Recommend,33,1.60%,2.10%,2.60%
+Inpatient,Likelihood to Recommend,34,1.60%,2.10%,2.60%
+Inpatient,Likelihood to Recommend,35,1.60%,2.10%,2.60%
+Inpatient,Likelihood to Recommend,36,1.60%,2.10%,2.60%
+Inpatient,Likelihood to Recommend,37,1.60%,2.10%,2.60%
+Inpatient,Likelihood to Recommend,38,1.60%,2.10%,2.60%
+Inpatient,Likelihood to Recommend,39,1.60%,2.10%,2.60%
+Inpatient,Likelihood to Recommend,40,1.40%,1.90%,2.30%
+Inpatient,Likelihood to Recommend,41,1.40%,1.90%,2.30%
+Inpatient,Likelihood to Recommend,42,1.40%,1.90%,2.30%
+Inpatient,Likelihood to Recommend,43,1.40%,1.90%,2.30%
+Inpatient,Likelihood to Recommend,44,1.40%,1.90%,2.30%
+Inpatient,Likelihood to Recommend,45,1.40%,1.90%,2.30%
+Inpatient,Likelihood to Recommend,46,1.40%,1.90%,2.30%
+Inpatient,Likelihood to Recommend,47,1.40%,1.90%,2.30%
+Inpatient,Likelihood to Recommend,48,1.40%,1.90%,2.30%
+Inpatient,Likelihood to Recommend,49,1.40%,1.90%,2.30%
+Inpatient,Likelihood to Recommend,50,1.20%,1.60%,2.00%
+Inpatient,Likelihood to Recommend,51,1.20%,1.60%,2.00%
+Inpatient,Likelihood to Recommend,52,1.20%,1.60%,2.00%
+Inpatient,Likelihood to Recommend,53,1.20%,1.60%,2.00%
+Inpatient,Likelihood to Recommend,54,1.20%,1.60%,2.00%
+Inpatient,Likelihood to Recommend,55,1.20%,1.60%,2.00%
+Inpatient,Likelihood to Recommend,56,1.20%,1.60%,2.00%
+Inpatient,Likelihood to Recommend,57,1.20%,1.60%,2.00%
+Inpatient,Likelihood to Recommend,58,1.20%,1.60%,2.00%
+Inpatient,Likelihood to Recommend,59,1.20%,1.60%,2.00%
+Inpatient,Likelihood to Recommend,60,0.90%,1.30%,1.60%
+Inpatient,Likelihood to Recommend,61,0.90%,1.30%,1.60%
+Inpatient,Likelihood to Recommend,62,0.90%,1.30%,1.60%
+Inpatient,Likelihood to Recommend,63,0.90%,1.30%,1.60%
+Inpatient,Likelihood to Recommend,64,0.90%,1.30%,1.60%
+Inpatient,Likelihood to Recommend,65,0.90%,1.30%,1.60%
+Inpatient,Likelihood to Recommend,66,0.90%,1.30%,1.60%
+Inpatient,Likelihood to Recommend,67,0.90%,1.30%,1.60%
+Inpatient,Likelihood to Recommend,68,0.90%,1.30%,1.60%
+Inpatient,Likelihood to Recommend,69,0.90%,1.30%,1.60%
+Inpatient,Likelihood to Recommend,70,0.60%,0.90%,1.20%
+Inpatient,Likelihood to Recommend,71,0.60%,0.90%,1.20%
+Inpatient,Likelihood to Recommend,72,0.60%,0.90%,1.20%
+Inpatient,Likelihood to Recommend,73,0.60%,0.90%,1.20%
+Inpatient,Likelihood to Recommend,74,0.60%,0.90%,1.20%
+Inpatient,Likelihood to Recommend,75,0.60%,0.90%,1.20%
+Inpatient,Likelihood to Recommend,76,0.60%,0.90%,1.20%
+Inpatient,Likelihood to Recommend,77,0.60%,0.90%,1.20%
+Inpatient,Likelihood to Recommend,78,0.60%,0.90%,1.20%
+Inpatient,Likelihood to Recommend,79,0.60%,0.90%,1.20%
+Inpatient,Likelihood to Recommend,80,0.30%,0.60%,0.80%
+Inpatient,Likelihood to Recommend,81,0.30%,0.60%,0.80%
+Inpatient,Likelihood to Recommend,82,0.30%,0.60%,0.80%
+Inpatient,Likelihood to Recommend,83,0.30%,0.60%,0.80%
+Inpatient,Likelihood to Recommend,84,0.30%,0.60%,0.80%
+Inpatient,Likelihood to Recommend,85,0.30%,0.60%,0.80%
+Inpatient,Likelihood to Recommend,86,0.30%,0.60%,0.80%
+Inpatient,Likelihood to Recommend,87,0.30%,0.60%,0.80%
+Inpatient,Likelihood to Recommend,88,0.30%,0.60%,0.80%
+Inpatient,Likelihood to Recommend,89,0.30%,0.60%,0.80%
+Inpatient,Likelihood to Recommend,90,0.00%,0.30%,0.40%
+Inpatient,Likelihood to Recommend,91,0.00%,0.30%,0.40%
+Inpatient,Likelihood to Recommend,92,0.00%,0.30%,0.40%
+Inpatient,Likelihood to Recommend,93,0.00%,0.30%,0.40%
+Inpatient,Likelihood to Recommend,94,0.00%,0.30%,0.40%
+Inpatient,Likelihood to Recommend,95,0.00%,0.30%,0.40%
+Inpatient,Likelihood to Recommend,96,0.00%,0.30%,0.40%
+Inpatient,Likelihood to Recommend,97,0.00%,0.30%,0.40%
+Inpatient,Likelihood to Recommend,98,0.00%,0.30%,0.40%
+Inpatient,Likelihood to Recommend,99,0.00%,0.30%,0.40%
+Inpatient,Overall Rating,0,2.80%,3.40%,4.20%
+Inpatient,Overall Rating,1,2.80%,3.40%,4.20%
+Inpatient,Overall Rating,2,2.80%,3.40%,4.20%
+Inpatient,Overall Rating,3,2.80%,3.40%,4.20%
+Inpatient,Overall Rating,4,2.80%,3.40%,4.20%
+Inpatient,Overall Rating,5,2.80%,3.40%,4.20%
+Inpatient,Overall Rating,6,2.80%,3.40%,4.20%
+Inpatient,Overall Rating,7,2.80%,3.40%,4.20%
+Inpatient,Overall Rating,8,2.80%,3.40%,4.20%
+Inpatient,Overall Rating,9,2.80%,3.40%,4.20%
+Inpatient,Overall Rating,10,2.60%,3.20%,3.90%
+Inpatient,Overall Rating,11,2.60%,3.20%,3.90%
+Inpatient,Overall Rating,12,2.60%,3.20%,3.90%
+Inpatient,Overall Rating,13,2.60%,3.20%,3.90%
+Inpatient,Overall Rating,14,2.60%,3.20%,3.90%
+Inpatient,Overall Rating,15,2.60%,3.20%,3.90%
+Inpatient,Overall Rating,16,2.60%,3.20%,3.90%
+Inpatient,Overall Rating,17,2.60%,3.20%,3.90%
+Inpatient,Overall Rating,18,2.60%,3.20%,3.90%
+Inpatient,Overall Rating,19,2.60%,3.20%,3.90%
+Inpatient,Overall Rating,20,2.30%,3.00%,3.70%
+Inpatient,Overall Rating,21,2.30%,3.00%,3.70%
+Inpatient,Overall Rating,22,2.30%,3.00%,3.70%
+Inpatient,Overall Rating,23,2.30%,3.00%,3.70%
+Inpatient,Overall Rating,24,2.30%,3.00%,3.70%
+Inpatient,Overall Rating,25,2.30%,3.00%,3.70%
+Inpatient,Overall Rating,26,2.30%,3.00%,3.70%
+Inpatient,Overall Rating,27,2.30%,3.00%,3.70%
+Inpatient,Overall Rating,28,2.30%,3.00%,3.70%
+Inpatient,Overall Rating,29,2.30%,3.00%,3.70%
+Inpatient,Overall Rating,30,2.10%,2.70%,3.40%
+Inpatient,Overall Rating,31,2.10%,2.70%,3.40%
+Inpatient,Overall Rating,32,2.10%,2.70%,3.40%
+Inpatient,Overall Rating,33,2.10%,2.70%,3.40%
+Inpatient,Overall Rating,34,2.10%,2.70%,3.40%
+Inpatient,Overall Rating,35,2.10%,2.70%,3.40%
+Inpatient,Overall Rating,36,2.10%,2.70%,3.40%
+Inpatient,Overall Rating,37,2.10%,2.70%,3.40%
+Inpatient,Overall Rating,38,2.10%,2.70%,3.40%
+Inpatient,Overall Rating,39,2.10%,2.70%,3.40%
+Inpatient,Overall Rating,40,1.90%,2.50%,3.10%
+Inpatient,Overall Rating,41,1.90%,2.50%,3.10%
+Inpatient,Overall Rating,42,1.90%,2.50%,3.10%
+Inpatient,Overall Rating,43,1.90%,2.50%,3.10%
+Inpatient,Overall Rating,44,1.90%,2.50%,3.10%
+Inpatient,Overall Rating,45,1.90%,2.50%,3.10%
+Inpatient,Overall Rating,46,1.90%,2.50%,3.10%
+Inpatient,Overall Rating,47,1.90%,2.50%,3.10%
+Inpatient,Overall Rating,48,1.90%,2.50%,3.10%
+Inpatient,Overall Rating,49,1.90%,2.50%,3.10%
+Inpatient,Overall Rating,50,1.70%,2.30%,2.80%
+Inpatient,Overall Rating,51,1.70%,2.30%,2.80%
+Inpatient,Overall Rating,52,1.70%,2.30%,2.80%
+Inpatient,Overall Rating,53,1.70%,2.30%,2.80%
+Inpatient,Overall Rating,54,1.70%,2.30%,2.80%
+Inpatient,Overall Rating,55,1.70%,2.30%,2.80%
+Inpatient,Overall Rating,56,1.70%,2.30%,2.80%
+Inpatient,Overall Rating,57,1.70%,2.30%,2.80%
+Inpatient,Overall Rating,58,1.70%,2.30%,2.80%
+Inpatient,Overall Rating,59,1.70%,2.30%,2.80%
+Inpatient,Overall Rating,60,1.30%,1.80%,2.40%
+Inpatient,Overall Rating,61,1.30%,1.80%,2.40%
+Inpatient,Overall Rating,62,1.30%,1.80%,2.40%
+Inpatient,Overall Rating,63,1.30%,1.80%,2.40%
+Inpatient,Overall Rating,64,1.30%,1.80%,2.40%
+Inpatient,Overall Rating,65,1.30%,1.80%,2.40%
+Inpatient,Overall Rating,66,1.30%,1.80%,2.40%
+Inpatient,Overall Rating,67,1.30%,1.80%,2.40%
+Inpatient,Overall Rating,68,1.30%,1.80%,2.40%
+Inpatient,Overall Rating,69,1.30%,1.80%,2.40%
+Inpatient,Overall Rating,70,0.90%,1.40%,1.90%
+Inpatient,Overall Rating,71,0.90%,1.40%,1.90%
+Inpatient,Overall Rating,72,0.90%,1.40%,1.90%
+Inpatient,Overall Rating,73,0.90%,1.40%,1.90%
+Inpatient,Overall Rating,74,0.90%,1.40%,1.90%
+Inpatient,Overall Rating,75,0.90%,1.40%,1.90%
+Inpatient,Overall Rating,76,0.90%,1.40%,1.90%
+Inpatient,Overall Rating,77,0.90%,1.40%,1.90%
+Inpatient,Overall Rating,78,0.90%,1.40%,1.90%
+Inpatient,Overall Rating,79,0.90%,1.40%,1.90%
+Inpatient,Overall Rating,80,0.40%,1.00%,1.40%
+Inpatient,Overall Rating,81,0.40%,1.00%,1.40%
+Inpatient,Overall Rating,82,0.40%,1.00%,1.40%
+Inpatient,Overall Rating,83,0.40%,1.00%,1.40%
+Inpatient,Overall Rating,84,0.40%,1.00%,1.40%
+Inpatient,Overall Rating,85,0.40%,1.00%,1.40%
+Inpatient,Overall Rating,86,0.40%,1.00%,1.40%
+Inpatient,Overall Rating,87,0.40%,1.00%,1.40%
+Inpatient,Overall Rating,88,0.40%,1.00%,1.40%
+Inpatient,Overall Rating,89,0.40%,1.00%,1.40%
+Inpatient,Overall Rating,90,0.00%,0.60%,0.90%
+Inpatient,Overall Rating,91,0.00%,0.60%,0.90%
+Inpatient,Overall Rating,92,0.00%,0.60%,0.90%
+Inpatient,Overall Rating,93,0.00%,0.60%,0.90%
+Inpatient,Overall Rating,94,0.00%,0.60%,0.90%
+Inpatient,Overall Rating,95,0.00%,0.60%,0.90%
+Inpatient,Overall Rating,96,0.00%,0.60%,0.90%
+Inpatient,Overall Rating,97,0.00%,0.60%,0.90%
+Inpatient,Overall Rating,98,0.00%,0.60%,0.90%
+Inpatient,Overall Rating,99,0.00%,0.60%,0.90%
+Inpatient,Other,0,1.90%,2.20%,2.70%
+Inpatient,Other,1,1.90%,2.20%,2.70%
+Inpatient,Other,2,1.90%,2.20%,2.70%
+Inpatient,Other,3,1.90%,2.20%,2.70%
+Inpatient,Other,4,1.90%,2.20%,2.70%
+Inpatient,Other,5,1.90%,2.20%,2.70%
+Inpatient,Other,6,1.90%,2.20%,2.70%
+Inpatient,Other,7,1.90%,2.20%,2.70%
+Inpatient,Other,8,1.90%,2.20%,2.70%
+Inpatient,Other,9,1.90%,2.20%,2.70%
+Inpatient,Other,10,1.70%,2.10%,2.60%
+Inpatient,Other,11,1.70%,2.10%,2.60%
+Inpatient,Other,12,1.70%,2.10%,2.60%
+Inpatient,Other,13,1.70%,2.10%,2.60%
+Inpatient,Other,14,1.70%,2.10%,2.60%
+Inpatient,Other,15,1.70%,2.10%,2.60%
+Inpatient,Other,16,1.70%,2.10%,2.60%
+Inpatient,Other,17,1.70%,2.10%,2.60%
+Inpatient,Other,18,1.70%,2.10%,2.60%
+Inpatient,Other,19,1.70%,2.10%,2.60%
+Inpatient,Other,20,1.60%,2.00%,2.40%
+Inpatient,Other,21,1.60%,2.00%,2.40%
+Inpatient,Other,22,1.60%,2.00%,2.40%
+Inpatient,Other,23,1.60%,2.00%,2.40%
+Inpatient,Other,24,1.60%,2.00%,2.40%
+Inpatient,Other,25,1.60%,2.00%,2.40%
+Inpatient,Other,26,1.60%,2.00%,2.40%
+Inpatient,Other,27,1.60%,2.00%,2.40%
+Inpatient,Other,28,1.60%,2.00%,2.40%
+Inpatient,Other,29,1.60%,2.00%,2.40%
+Inpatient,Other,30,1.50%,1.80%,2.30%
+Inpatient,Other,31,1.50%,1.80%,2.30%
+Inpatient,Other,32,1.50%,1.80%,2.30%
+Inpatient,Other,33,1.50%,1.80%,2.30%
+Inpatient,Other,34,1.50%,1.80%,2.30%
+Inpatient,Other,35,1.50%,1.80%,2.30%
+Inpatient,Other,36,1.50%,1.80%,2.30%
+Inpatient,Other,37,1.50%,1.80%,2.30%
+Inpatient,Other,38,1.50%,1.80%,2.30%
+Inpatient,Other,39,1.50%,1.80%,2.30%
+Inpatient,Other,40,1.30%,1.70%,2.10%
+Inpatient,Other,41,1.30%,1.70%,2.10%
+Inpatient,Other,42,1.30%,1.70%,2.10%
+Inpatient,Other,43,1.30%,1.70%,2.10%
+Inpatient,Other,44,1.30%,1.70%,2.10%
+Inpatient,Other,45,1.30%,1.70%,2.10%
+Inpatient,Other,46,1.30%,1.70%,2.10%
+Inpatient,Other,47,1.30%,1.70%,2.10%
+Inpatient,Other,48,1.30%,1.70%,2.10%
+Inpatient,Other,49,1.30%,1.70%,2.10%
+Inpatient,Other,50,1.20%,1.60%,2.00%
+Inpatient,Other,51,1.20%,1.60%,2.00%
+Inpatient,Other,52,1.20%,1.60%,2.00%
+Inpatient,Other,53,1.20%,1.60%,2.00%
+Inpatient,Other,54,1.20%,1.60%,2.00%
+Inpatient,Other,55,1.20%,1.60%,2.00%
+Inpatient,Other,56,1.20%,1.60%,2.00%
+Inpatient,Other,57,1.20%,1.60%,2.00%
+Inpatient,Other,58,1.20%,1.60%,2.00%
+Inpatient,Other,59,1.20%,1.60%,2.00%
+Inpatient,Other,60,0.90%,1.30%,1.70%
+Inpatient,Other,61,0.90%,1.30%,1.70%
+Inpatient,Other,62,0.90%,1.30%,1.70%
+Inpatient,Other,63,0.90%,1.30%,1.70%
+Inpatient,Other,64,0.90%,1.30%,1.70%
+Inpatient,Other,65,0.90%,1.30%,1.70%
+Inpatient,Other,66,0.90%,1.30%,1.70%
+Inpatient,Other,67,0.90%,1.30%,1.70%
+Inpatient,Other,68,0.90%,1.30%,1.70%
+Inpatient,Other,69,0.90%,1.30%,1.70%
+Inpatient,Other,70,0.60%,1.10%,1.30%
+Inpatient,Other,71,0.60%,1.10%,1.30%
+Inpatient,Other,72,0.60%,1.10%,1.30%
+Inpatient,Other,73,0.60%,1.10%,1.30%
+Inpatient,Other,74,0.60%,1.10%,1.30%
+Inpatient,Other,75,0.60%,1.10%,1.30%
+Inpatient,Other,76,0.60%,1.10%,1.30%
+Inpatient,Other,77,0.60%,1.10%,1.30%
+Inpatient,Other,78,0.60%,1.10%,1.30%
+Inpatient,Other,79,0.60%,1.10%,1.30%
+Inpatient,Other,80,0.30%,0.80%,1.00%
+Inpatient,Other,81,0.30%,0.80%,1.00%
+Inpatient,Other,82,0.30%,0.80%,1.00%
+Inpatient,Other,83,0.30%,0.80%,1.00%
+Inpatient,Other,84,0.30%,0.80%,1.00%
+Inpatient,Other,85,0.30%,0.80%,1.00%
+Inpatient,Other,86,0.30%,0.80%,1.00%
+Inpatient,Other,87,0.30%,0.80%,1.00%
+Inpatient,Other,88,0.30%,0.80%,1.00%
+Inpatient,Other,89,0.30%,0.80%,1.00%
+Inpatient,Other,90,0.00%,0.50%,0.70%
+Inpatient,Other,91,0.00%,0.50%,0.70%
+Inpatient,Other,92,0.00%,0.50%,0.70%
+Inpatient,Other,93,0.00%,0.50%,0.70%
+Inpatient,Other,94,0.00%,0.50%,0.70%
+Inpatient,Other,95,0.00%,0.50%,0.70%
+Inpatient,Other,96,0.00%,0.50%,0.70%
+Inpatient,Other,97,0.00%,0.50%,0.70%
+Inpatient,Other,98,0.00%,0.50%,0.70%
+Inpatient,Other,99,0.00%,0.50%,0.70%
+OP / SDS,Likelihood to Recommend,0,3.10%,4.70%,6.90%
+OP / SDS,Likelihood to Recommend,1,3.10%,4.70%,6.90%
+OP / SDS,Likelihood to Recommend,2,3.10%,4.70%,6.90%
+OP / SDS,Likelihood to Recommend,3,3.10%,4.70%,6.90%
+OP / SDS,Likelihood to Recommend,4,3.10%,4.70%,6.90%
+OP / SDS,Likelihood to Recommend,5,3.10%,4.70%,6.90%
+OP / SDS,Likelihood to Recommend,6,3.10%,4.70%,6.90%
+OP / SDS,Likelihood to Recommend,7,3.10%,4.70%,6.90%
+OP / SDS,Likelihood to Recommend,8,3.10%,4.70%,6.90%
+OP / SDS,Likelihood to Recommend,9,3.10%,4.70%,6.90%
+OP / SDS,Likelihood to Recommend,10,2.80%,4.40%,6.50%
+OP / SDS,Likelihood to Recommend,11,2.80%,4.40%,6.50%
+OP / SDS,Likelihood to Recommend,12,2.80%,4.40%,6.50%
+OP / SDS,Likelihood to Recommend,13,2.80%,4.40%,6.50%
+OP / SDS,Likelihood to Recommend,14,2.80%,4.40%,6.50%
+OP / SDS,Likelihood to Recommend,15,2.80%,4.40%,6.50%
+OP / SDS,Likelihood to Recommend,16,2.80%,4.40%,6.50%
+OP / SDS,Likelihood to Recommend,17,2.80%,4.40%,6.50%
+OP / SDS,Likelihood to Recommend,18,2.80%,4.40%,6.50%
+OP / SDS,Likelihood to Recommend,19,2.80%,4.40%,6.50%
+OP / SDS,Likelihood to Recommend,20,2.60%,4.10%,6.10%
+OP / SDS,Likelihood to Recommend,21,2.60%,4.10%,6.10%
+OP / SDS,Likelihood to Recommend,22,2.60%,4.10%,6.10%
+OP / SDS,Likelihood to Recommend,23,2.60%,4.10%,6.10%
+OP / SDS,Likelihood to Recommend,24,2.60%,4.10%,6.10%
+OP / SDS,Likelihood to Recommend,25,2.60%,4.10%,6.10%
+OP / SDS,Likelihood to Recommend,26,2.60%,4.10%,6.10%
+OP / SDS,Likelihood to Recommend,27,2.60%,4.10%,6.10%
+OP / SDS,Likelihood to Recommend,28,2.60%,4.10%,6.10%
+OP / SDS,Likelihood to Recommend,29,2.60%,4.10%,6.10%
+OP / SDS,Likelihood to Recommend,30,2.40%,3.80%,5.70%
+OP / SDS,Likelihood to Recommend,31,2.40%,3.80%,5.70%
+OP / SDS,Likelihood to Recommend,32,2.40%,3.80%,5.70%
+OP / SDS,Likelihood to Recommend,33,2.40%,3.80%,5.70%
+OP / SDS,Likelihood to Recommend,34,2.40%,3.80%,5.70%
+OP / SDS,Likelihood to Recommend,35,2.40%,3.80%,5.70%
+OP / SDS,Likelihood to Recommend,36,2.40%,3.80%,5.70%
+OP / SDS,Likelihood to Recommend,37,2.40%,3.80%,5.70%
+OP / SDS,Likelihood to Recommend,38,2.40%,3.80%,5.70%
+OP / SDS,Likelihood to Recommend,39,2.40%,3.80%,5.70%
+OP / SDS,Likelihood to Recommend,40,2.10%,3.50%,5.30%
+OP / SDS,Likelihood to Recommend,41,2.10%,3.50%,5.30%
+OP / SDS,Likelihood to Recommend,42,2.10%,3.50%,5.30%
+OP / SDS,Likelihood to Recommend,43,2.10%,3.50%,5.30%
+OP / SDS,Likelihood to Recommend,44,2.10%,3.50%,5.30%
+OP / SDS,Likelihood to Recommend,45,2.10%,3.50%,5.30%
+OP / SDS,Likelihood to Recommend,46,2.10%,3.50%,5.30%
+OP / SDS,Likelihood to Recommend,47,2.10%,3.50%,5.30%
+OP / SDS,Likelihood to Recommend,48,2.10%,3.50%,5.30%
+OP / SDS,Likelihood to Recommend,49,2.10%,3.50%,5.30%
+OP / SDS,Likelihood to Recommend,50,1.90%,3.20%,4.90%
+OP / SDS,Likelihood to Recommend,51,1.90%,3.20%,4.90%
+OP / SDS,Likelihood to Recommend,52,1.90%,3.20%,4.90%
+OP / SDS,Likelihood to Recommend,53,1.90%,3.20%,4.90%
+OP / SDS,Likelihood to Recommend,54,1.90%,3.20%,4.90%
+OP / SDS,Likelihood to Recommend,55,1.90%,3.20%,4.90%
+OP / SDS,Likelihood to Recommend,56,1.90%,3.20%,4.90%
+OP / SDS,Likelihood to Recommend,57,1.90%,3.20%,4.90%
+OP / SDS,Likelihood to Recommend,58,1.90%,3.20%,4.90%
+OP / SDS,Likelihood to Recommend,59,1.90%,3.20%,4.90%
+OP / SDS,Likelihood to Recommend,60,1.40%,2.60%,4.00%
+OP / SDS,Likelihood to Recommend,61,1.40%,2.60%,4.00%
+OP / SDS,Likelihood to Recommend,62,1.40%,2.60%,4.00%
+OP / SDS,Likelihood to Recommend,63,1.40%,2.60%,4.00%
+OP / SDS,Likelihood to Recommend,64,1.40%,2.60%,4.00%
+OP / SDS,Likelihood to Recommend,65,1.40%,2.60%,4.00%
+OP / SDS,Likelihood to Recommend,66,1.40%,2.60%,4.00%
+OP / SDS,Likelihood to Recommend,67,1.40%,2.60%,4.00%
+OP / SDS,Likelihood to Recommend,68,1.40%,2.60%,4.00%
+OP / SDS,Likelihood to Recommend,69,1.40%,2.60%,4.00%
+OP / SDS,Likelihood to Recommend,70,1.00%,2.00%,3.10%
+OP / SDS,Likelihood to Recommend,71,1.00%,2.00%,3.10%
+OP / SDS,Likelihood to Recommend,72,1.00%,2.00%,3.10%
+OP / SDS,Likelihood to Recommend,73,1.00%,2.00%,3.10%
+OP / SDS,Likelihood to Recommend,74,1.00%,2.00%,3.10%
+OP / SDS,Likelihood to Recommend,75,1.00%,2.00%,3.10%
+OP / SDS,Likelihood to Recommend,76,1.00%,2.00%,3.10%
+OP / SDS,Likelihood to Recommend,77,1.00%,2.00%,3.10%
+OP / SDS,Likelihood to Recommend,78,1.00%,2.00%,3.10%
+OP / SDS,Likelihood to Recommend,79,1.00%,2.00%,3.10%
+OP / SDS,Likelihood to Recommend,80,0.50%,1.40%,2.20%
+OP / SDS,Likelihood to Recommend,81,0.50%,1.40%,2.20%
+OP / SDS,Likelihood to Recommend,82,0.50%,1.40%,2.20%
+OP / SDS,Likelihood to Recommend,83,0.50%,1.40%,2.20%
+OP / SDS,Likelihood to Recommend,84,0.50%,1.40%,2.20%
+OP / SDS,Likelihood to Recommend,85,0.50%,1.40%,2.20%
+OP / SDS,Likelihood to Recommend,86,0.50%,1.40%,2.20%
+OP / SDS,Likelihood to Recommend,87,0.50%,1.40%,2.20%
+OP / SDS,Likelihood to Recommend,88,0.50%,1.40%,2.20%
+OP / SDS,Likelihood to Recommend,89,0.50%,1.40%,2.20%
+OP / SDS,Likelihood to Recommend,90,0.00%,0.90%,1.30%
+OP / SDS,Likelihood to Recommend,91,0.00%,0.90%,1.30%
+OP / SDS,Likelihood to Recommend,92,0.00%,0.90%,1.30%
+OP / SDS,Likelihood to Recommend,93,0.00%,0.90%,1.30%
+OP / SDS,Likelihood to Recommend,94,0.00%,0.90%,1.30%
+OP / SDS,Likelihood to Recommend,95,0.00%,0.90%,1.30%
+OP / SDS,Likelihood to Recommend,96,0.00%,0.90%,1.30%
+OP / SDS,Likelihood to Recommend,97,0.00%,0.90%,1.30%
+OP / SDS,Likelihood to Recommend,98,0.00%,0.90%,1.30%
+OP / SDS,Likelihood to Recommend,99,0.00%,0.90%,1.30%
+OP / SDS,Overall Rating,0,3.20%,4.80%,6.70%
+OP / SDS,Overall Rating,1,3.20%,4.80%,6.70%
+OP / SDS,Overall Rating,2,3.20%,4.80%,6.70%
+OP / SDS,Overall Rating,3,3.20%,4.80%,6.70%
+OP / SDS,Overall Rating,4,3.20%,4.80%,6.70%
+OP / SDS,Overall Rating,5,3.20%,4.80%,6.70%
+OP / SDS,Overall Rating,6,3.20%,4.80%,6.70%
+OP / SDS,Overall Rating,7,3.20%,4.80%,6.70%
+OP / SDS,Overall Rating,8,3.20%,4.80%,6.70%
+OP / SDS,Overall Rating,9,3.20%,4.80%,6.70%
+OP / SDS,Overall Rating,10,3.00%,4.50%,6.20%
+OP / SDS,Overall Rating,11,3.00%,4.50%,6.20%
+OP / SDS,Overall Rating,12,3.00%,4.50%,6.20%
+OP / SDS,Overall Rating,13,3.00%,4.50%,6.20%
+OP / SDS,Overall Rating,14,3.00%,4.50%,6.20%
+OP / SDS,Overall Rating,15,3.00%,4.50%,6.20%
+OP / SDS,Overall Rating,16,3.00%,4.50%,6.20%
+OP / SDS,Overall Rating,17,3.00%,4.50%,6.20%
+OP / SDS,Overall Rating,18,3.00%,4.50%,6.20%
+OP / SDS,Overall Rating,19,3.00%,4.50%,6.20%
+OP / SDS,Overall Rating,20,2.80%,4.20%,5.70%
+OP / SDS,Overall Rating,21,2.80%,4.20%,5.70%
+OP / SDS,Overall Rating,22,2.80%,4.20%,5.70%
+OP / SDS,Overall Rating,23,2.80%,4.20%,5.70%
+OP / SDS,Overall Rating,24,2.80%,4.20%,5.70%
+OP / SDS,Overall Rating,25,2.80%,4.20%,5.70%
+OP / SDS,Overall Rating,26,2.80%,4.20%,5.70%
+OP / SDS,Overall Rating,27,2.80%,4.20%,5.70%
+OP / SDS,Overall Rating,28,2.80%,4.20%,5.70%
+OP / SDS,Overall Rating,29,2.80%,4.20%,5.70%
+OP / SDS,Overall Rating,30,2.60%,3.90%,5.20%
+OP / SDS,Overall Rating,31,2.60%,3.90%,5.20%
+OP / SDS,Overall Rating,32,2.60%,3.90%,5.20%
+OP / SDS,Overall Rating,33,2.60%,3.90%,5.20%
+OP / SDS,Overall Rating,34,2.60%,3.90%,5.20%
+OP / SDS,Overall Rating,35,2.60%,3.90%,5.20%
+OP / SDS,Overall Rating,36,2.60%,3.90%,5.20%
+OP / SDS,Overall Rating,37,2.60%,3.90%,5.20%
+OP / SDS,Overall Rating,38,2.60%,3.90%,5.20%
+OP / SDS,Overall Rating,39,2.60%,3.90%,5.20%
+OP / SDS,Overall Rating,40,2.40%,3.70%,4.70%
+OP / SDS,Overall Rating,41,2.40%,3.70%,4.70%
+OP / SDS,Overall Rating,42,2.40%,3.70%,4.70%
+OP / SDS,Overall Rating,43,2.40%,3.70%,4.70%
+OP / SDS,Overall Rating,44,2.40%,3.70%,4.70%
+OP / SDS,Overall Rating,45,2.40%,3.70%,4.70%
+OP / SDS,Overall Rating,46,2.40%,3.70%,4.70%
+OP / SDS,Overall Rating,47,2.40%,3.70%,4.70%
+OP / SDS,Overall Rating,48,2.40%,3.70%,4.70%
+OP / SDS,Overall Rating,49,2.40%,3.70%,4.70%
+OP / SDS,Overall Rating,50,2.20%,3.40%,4.20%
+OP / SDS,Overall Rating,51,2.20%,3.40%,4.20%
+OP / SDS,Overall Rating,52,2.20%,3.40%,4.20%
+OP / SDS,Overall Rating,53,2.20%,3.40%,4.20%
+OP / SDS,Overall Rating,54,2.20%,3.40%,4.20%
+OP / SDS,Overall Rating,55,2.20%,3.40%,4.20%
+OP / SDS,Overall Rating,56,2.20%,3.40%,4.20%
+OP / SDS,Overall Rating,57,2.20%,3.40%,4.20%
+OP / SDS,Overall Rating,58,2.20%,3.40%,4.20%
+OP / SDS,Overall Rating,59,2.20%,3.40%,4.20%
+OP / SDS,Overall Rating,60,1.60%,2.70%,3.30%
+OP / SDS,Overall Rating,61,1.60%,2.70%,3.30%
+OP / SDS,Overall Rating,62,1.60%,2.70%,3.30%
+OP / SDS,Overall Rating,63,1.60%,2.70%,3.30%
+OP / SDS,Overall Rating,64,1.60%,2.70%,3.30%
+OP / SDS,Overall Rating,65,1.60%,2.70%,3.30%
+OP / SDS,Overall Rating,66,1.60%,2.70%,3.30%
+OP / SDS,Overall Rating,67,1.60%,2.70%,3.30%
+OP / SDS,Overall Rating,68,1.60%,2.70%,3.30%
+OP / SDS,Overall Rating,69,1.60%,2.70%,3.30%
+OP / SDS,Overall Rating,70,1.10%,1.90%,2.40%
+OP / SDS,Overall Rating,71,1.10%,1.90%,2.40%
+OP / SDS,Overall Rating,72,1.10%,1.90%,2.40%
+OP / SDS,Overall Rating,73,1.10%,1.90%,2.40%
+OP / SDS,Overall Rating,74,1.10%,1.90%,2.40%
+OP / SDS,Overall Rating,75,1.10%,1.90%,2.40%
+OP / SDS,Overall Rating,76,1.10%,1.90%,2.40%
+OP / SDS,Overall Rating,77,1.10%,1.90%,2.40%
+OP / SDS,Overall Rating,78,1.10%,1.90%,2.40%
+OP / SDS,Overall Rating,79,1.10%,1.90%,2.40%
+OP / SDS,Overall Rating,80,0.50%,1.20%,1.60%
+OP / SDS,Overall Rating,81,0.50%,1.20%,1.60%
+OP / SDS,Overall Rating,82,0.50%,1.20%,1.60%
+OP / SDS,Overall Rating,83,0.50%,1.20%,1.60%
+OP / SDS,Overall Rating,84,0.50%,1.20%,1.60%
+OP / SDS,Overall Rating,85,0.50%,1.20%,1.60%
+OP / SDS,Overall Rating,86,0.50%,1.20%,1.60%
+OP / SDS,Overall Rating,87,0.50%,1.20%,1.60%
+OP / SDS,Overall Rating,88,0.50%,1.20%,1.60%
+OP / SDS,Overall Rating,89,0.50%,1.20%,1.60%
+OP / SDS,Overall Rating,90,0.00%,0.40%,0.70%
+OP / SDS,Overall Rating,91,0.00%,0.40%,0.70%
+OP / SDS,Overall Rating,92,0.00%,0.40%,0.70%
+OP / SDS,Overall Rating,93,0.00%,0.40%,0.70%
+OP / SDS,Overall Rating,94,0.00%,0.40%,0.70%
+OP / SDS,Overall Rating,95,0.00%,0.40%,0.70%
+OP / SDS,Overall Rating,96,0.00%,0.40%,0.70%
+OP / SDS,Overall Rating,97,0.00%,0.40%,0.70%
+OP / SDS,Overall Rating,98,0.00%,0.40%,0.70%
+OP / SDS,Overall Rating,99,0.00%,0.40%,0.70%
+OP / SDS,Other,0,2.50%,3.50%,4.70%
+OP / SDS,Other,1,2.50%,3.50%,4.70%
+OP / SDS,Other,2,2.50%,3.50%,4.70%
+OP / SDS,Other,3,2.50%,3.50%,4.70%
+OP / SDS,Other,4,2.50%,3.50%,4.70%
+OP / SDS,Other,5,2.50%,3.50%,4.70%
+OP / SDS,Other,6,2.50%,3.50%,4.70%
+OP / SDS,Other,7,2.50%,3.50%,4.70%
+OP / SDS,Other,8,2.50%,3.50%,4.70%
+OP / SDS,Other,9,2.50%,3.50%,4.70%
+OP / SDS,Other,10,2.30%,3.20%,4.40%
+OP / SDS,Other,11,2.30%,3.20%,4.40%
+OP / SDS,Other,12,2.30%,3.20%,4.40%
+OP / SDS,Other,13,2.30%,3.20%,4.40%
+OP / SDS,Other,14,2.30%,3.20%,4.40%
+OP / SDS,Other,15,2.30%,3.20%,4.40%
+OP / SDS,Other,16,2.30%,3.20%,4.40%
+OP / SDS,Other,17,2.30%,3.20%,4.40%
+OP / SDS,Other,18,2.30%,3.20%,4.40%
+OP / SDS,Other,19,2.30%,3.20%,4.40%
+OP / SDS,Other,20,2.10%,2.90%,4.10%
+OP / SDS,Other,21,2.10%,2.90%,4.10%
+OP / SDS,Other,22,2.10%,2.90%,4.10%
+OP / SDS,Other,23,2.10%,2.90%,4.10%
+OP / SDS,Other,24,2.10%,2.90%,4.10%
+OP / SDS,Other,25,2.10%,2.90%,4.10%
+OP / SDS,Other,26,2.10%,2.90%,4.10%
+OP / SDS,Other,27,2.10%,2.90%,4.10%
+OP / SDS,Other,28,2.10%,2.90%,4.10%
+OP / SDS,Other,29,2.10%,2.90%,4.10%
+OP / SDS,Other,30,1.80%,2.70%,3.80%
+OP / SDS,Other,31,1.80%,2.70%,3.80%
+OP / SDS,Other,32,1.80%,2.70%,3.80%
+OP / SDS,Other,33,1.80%,2.70%,3.80%
+OP / SDS,Other,34,1.80%,2.70%,3.80%
+OP / SDS,Other,35,1.80%,2.70%,3.80%
+OP / SDS,Other,36,1.80%,2.70%,3.80%
+OP / SDS,Other,37,1.80%,2.70%,3.80%
+OP / SDS,Other,38,1.80%,2.70%,3.80%
+OP / SDS,Other,39,1.80%,2.70%,3.80%
+OP / SDS,Other,40,1.60%,2.40%,3.50%
+OP / SDS,Other,41,1.60%,2.40%,3.50%
+OP / SDS,Other,42,1.60%,2.40%,3.50%
+OP / SDS,Other,43,1.60%,2.40%,3.50%
+OP / SDS,Other,44,1.60%,2.40%,3.50%
+OP / SDS,Other,45,1.60%,2.40%,3.50%
+OP / SDS,Other,46,1.60%,2.40%,3.50%
+OP / SDS,Other,47,1.60%,2.40%,3.50%
+OP / SDS,Other,48,1.60%,2.40%,3.50%
+OP / SDS,Other,49,1.60%,2.40%,3.50%
+OP / SDS,Other,50,1.40%,2.20%,3.20%
+OP / SDS,Other,51,1.40%,2.20%,3.20%
+OP / SDS,Other,52,1.40%,2.20%,3.20%
+OP / SDS,Other,53,1.40%,2.20%,3.20%
+OP / SDS,Other,54,1.40%,2.20%,3.20%
+OP / SDS,Other,55,1.40%,2.20%,3.20%
+OP / SDS,Other,56,1.40%,2.20%,3.20%
+OP / SDS,Other,57,1.40%,2.20%,3.20%
+OP / SDS,Other,58,1.40%,2.20%,3.20%
+OP / SDS,Other,59,1.40%,2.20%,3.20%
+OP / SDS,Other,60,1.00%,1.80%,2.60%
+OP / SDS,Other,61,1.00%,1.80%,2.60%
+OP / SDS,Other,62,1.00%,1.80%,2.60%
+OP / SDS,Other,63,1.00%,1.80%,2.60%
+OP / SDS,Other,64,1.00%,1.80%,2.60%
+OP / SDS,Other,65,1.00%,1.80%,2.60%
+OP / SDS,Other,66,1.00%,1.80%,2.60%
+OP / SDS,Other,67,1.00%,1.80%,2.60%
+OP / SDS,Other,68,1.00%,1.80%,2.60%
+OP / SDS,Other,69,1.00%,1.80%,2.60%
+OP / SDS,Other,70,0.70%,1.40%,2.10%
+OP / SDS,Other,71,0.70%,1.40%,2.10%
+OP / SDS,Other,72,0.70%,1.40%,2.10%
+OP / SDS,Other,73,0.70%,1.40%,2.10%
+OP / SDS,Other,74,0.70%,1.40%,2.10%
+OP / SDS,Other,75,0.70%,1.40%,2.10%
+OP / SDS,Other,76,0.70%,1.40%,2.10%
+OP / SDS,Other,77,0.70%,1.40%,2.10%
+OP / SDS,Other,78,0.70%,1.40%,2.10%
+OP / SDS,Other,79,0.70%,1.40%,2.10%
+OP / SDS,Other,80,0.30%,1.00%,1.50%
+OP / SDS,Other,81,0.30%,1.00%,1.50%
+OP / SDS,Other,82,0.30%,1.00%,1.50%
+OP / SDS,Other,83,0.30%,1.00%,1.50%
+OP / SDS,Other,84,0.30%,1.00%,1.50%
+OP / SDS,Other,85,0.30%,1.00%,1.50%
+OP / SDS,Other,86,0.30%,1.00%,1.50%
+OP / SDS,Other,87,0.30%,1.00%,1.50%
+OP / SDS,Other,88,0.30%,1.00%,1.50%
+OP / SDS,Other,89,0.30%,1.00%,1.50%
+OP / SDS,Other,90,0.00%,0.70%,1.00%
+OP / SDS,Other,91,0.00%,0.70%,1.00%
+OP / SDS,Other,92,0.00%,0.70%,1.00%
+OP / SDS,Other,93,0.00%,0.70%,1.00%
+OP / SDS,Other,94,0.00%,0.70%,1.00%
+OP / SDS,Other,95,0.00%,0.70%,1.00%
+OP / SDS,Other,96,0.00%,0.70%,1.00%
+OP / SDS,Other,97,0.00%,0.70%,1.00%
+OP / SDS,Other,98,0.00%,0.70%,1.00%
+OP / SDS,Other,99,0.00%,0.70%,1.00%
+Other Patient,Likelihood to Recommend,0,3.00%,4.50%,6.50%
+Other Patient,Likelihood to Recommend,1,3.00%,4.50%,6.50%
+Other Patient,Likelihood to Recommend,2,3.00%,4.50%,6.50%
+Other Patient,Likelihood to Recommend,3,3.00%,4.50%,6.50%
+Other Patient,Likelihood to Recommend,4,3.00%,4.50%,6.50%
+Other Patient,Likelihood to Recommend,5,3.00%,4.50%,6.50%
+Other Patient,Likelihood to Recommend,6,3.00%,4.50%,6.50%
+Other Patient,Likelihood to Recommend,7,3.00%,4.50%,6.50%
+Other Patient,Likelihood to Recommend,8,3.00%,4.50%,6.50%
+Other Patient,Likelihood to Recommend,9,3.00%,4.50%,6.50%
+Other Patient,Likelihood to Recommend,10,2.80%,4.20%,6.10%
+Other Patient,Likelihood to Recommend,11,2.80%,4.20%,6.10%
+Other Patient,Likelihood to Recommend,12,2.80%,4.20%,6.10%
+Other Patient,Likelihood to Recommend,13,2.80%,4.20%,6.10%
+Other Patient,Likelihood to Recommend,14,2.80%,4.20%,6.10%
+Other Patient,Likelihood to Recommend,15,2.80%,4.20%,6.10%
+Other Patient,Likelihood to Recommend,16,2.80%,4.20%,6.10%
+Other Patient,Likelihood to Recommend,17,2.80%,4.20%,6.10%
+Other Patient,Likelihood to Recommend,18,2.80%,4.20%,6.10%
+Other Patient,Likelihood to Recommend,19,2.80%,4.20%,6.10%
+Other Patient,Likelihood to Recommend,20,2.60%,4.00%,5.70%
+Other Patient,Likelihood to Recommend,21,2.60%,4.00%,5.70%
+Other Patient,Likelihood to Recommend,22,2.60%,4.00%,5.70%
+Other Patient,Likelihood to Recommend,23,2.60%,4.00%,5.70%
+Other Patient,Likelihood to Recommend,24,2.60%,4.00%,5.70%
+Other Patient,Likelihood to Recommend,25,2.60%,4.00%,5.70%
+Other Patient,Likelihood to Recommend,26,2.60%,4.00%,5.70%
+Other Patient,Likelihood to Recommend,27,2.60%,4.00%,5.70%
+Other Patient,Likelihood to Recommend,28,2.60%,4.00%,5.70%
+Other Patient,Likelihood to Recommend,29,2.60%,4.00%,5.70%
+Other Patient,Likelihood to Recommend,30,2.40%,3.70%,5.40%
+Other Patient,Likelihood to Recommend,31,2.40%,3.70%,5.40%
+Other Patient,Likelihood to Recommend,32,2.40%,3.70%,5.40%
+Other Patient,Likelihood to Recommend,33,2.40%,3.70%,5.40%
+Other Patient,Likelihood to Recommend,34,2.40%,3.70%,5.40%
+Other Patient,Likelihood to Recommend,35,2.40%,3.70%,5.40%
+Other Patient,Likelihood to Recommend,36,2.40%,3.70%,5.40%
+Other Patient,Likelihood to Recommend,37,2.40%,3.70%,5.40%
+Other Patient,Likelihood to Recommend,38,2.40%,3.70%,5.40%
+Other Patient,Likelihood to Recommend,39,2.40%,3.70%,5.40%
+Other Patient,Likelihood to Recommend,40,2.20%,3.50%,5.00%
+Other Patient,Likelihood to Recommend,41,2.20%,3.50%,5.00%
+Other Patient,Likelihood to Recommend,42,2.20%,3.50%,5.00%
+Other Patient,Likelihood to Recommend,43,2.20%,3.50%,5.00%
+Other Patient,Likelihood to Recommend,44,2.20%,3.50%,5.00%
+Other Patient,Likelihood to Recommend,45,2.20%,3.50%,5.00%
+Other Patient,Likelihood to Recommend,46,2.20%,3.50%,5.00%
+Other Patient,Likelihood to Recommend,47,2.20%,3.50%,5.00%
+Other Patient,Likelihood to Recommend,48,2.20%,3.50%,5.00%
+Other Patient,Likelihood to Recommend,49,2.20%,3.50%,5.00%
+Other Patient,Likelihood to Recommend,50,2.00%,3.20%,4.60%
+Other Patient,Likelihood to Recommend,51,2.00%,3.20%,4.60%
+Other Patient,Likelihood to Recommend,52,2.00%,3.20%,4.60%
+Other Patient,Likelihood to Recommend,53,2.00%,3.20%,4.60%
+Other Patient,Likelihood to Recommend,54,2.00%,3.20%,4.60%
+Other Patient,Likelihood to Recommend,55,2.00%,3.20%,4.60%
+Other Patient,Likelihood to Recommend,56,2.00%,3.20%,4.60%
+Other Patient,Likelihood to Recommend,57,2.00%,3.20%,4.60%
+Other Patient,Likelihood to Recommend,58,2.00%,3.20%,4.60%
+Other Patient,Likelihood to Recommend,59,2.00%,3.20%,4.60%
+Other Patient,Likelihood to Recommend,60,1.50%,2.60%,3.80%
+Other Patient,Likelihood to Recommend,61,1.50%,2.60%,3.80%
+Other Patient,Likelihood to Recommend,62,1.50%,2.60%,3.80%
+Other Patient,Likelihood to Recommend,63,1.50%,2.60%,3.80%
+Other Patient,Likelihood to Recommend,64,1.50%,2.60%,3.80%
+Other Patient,Likelihood to Recommend,65,1.50%,2.60%,3.80%
+Other Patient,Likelihood to Recommend,66,1.50%,2.60%,3.80%
+Other Patient,Likelihood to Recommend,67,1.50%,2.60%,3.80%
+Other Patient,Likelihood to Recommend,68,1.50%,2.60%,3.80%
+Other Patient,Likelihood to Recommend,69,1.50%,2.60%,3.80%
+Other Patient,Likelihood to Recommend,70,1.00%,2.00%,2.90%
+Other Patient,Likelihood to Recommend,71,1.00%,2.00%,2.90%
+Other Patient,Likelihood to Recommend,72,1.00%,2.00%,2.90%
+Other Patient,Likelihood to Recommend,73,1.00%,2.00%,2.90%
+Other Patient,Likelihood to Recommend,74,1.00%,2.00%,2.90%
+Other Patient,Likelihood to Recommend,75,1.00%,2.00%,2.90%
+Other Patient,Likelihood to Recommend,76,1.00%,2.00%,2.90%
+Other Patient,Likelihood to Recommend,77,1.00%,2.00%,2.90%
+Other Patient,Likelihood to Recommend,78,1.00%,2.00%,2.90%
+Other Patient,Likelihood to Recommend,79,1.00%,2.00%,2.90%
+Other Patient,Likelihood to Recommend,80,0.50%,1.40%,2.10%
+Other Patient,Likelihood to Recommend,81,0.50%,1.40%,2.10%
+Other Patient,Likelihood to Recommend,82,0.50%,1.40%,2.10%
+Other Patient,Likelihood to Recommend,83,0.50%,1.40%,2.10%
+Other Patient,Likelihood to Recommend,84,0.50%,1.40%,2.10%
+Other Patient,Likelihood to Recommend,85,0.50%,1.40%,2.10%
+Other Patient,Likelihood to Recommend,86,0.50%,1.40%,2.10%
+Other Patient,Likelihood to Recommend,87,0.50%,1.40%,2.10%
+Other Patient,Likelihood to Recommend,88,0.50%,1.40%,2.10%
+Other Patient,Likelihood to Recommend,89,0.50%,1.40%,2.10%
+Other Patient,Likelihood to Recommend,90,0.00%,0.80%,1.30%
+Other Patient,Likelihood to Recommend,91,0.00%,0.80%,1.30%
+Other Patient,Likelihood to Recommend,92,0.00%,0.80%,1.30%
+Other Patient,Likelihood to Recommend,93,0.00%,0.80%,1.30%
+Other Patient,Likelihood to Recommend,94,0.00%,0.80%,1.30%
+Other Patient,Likelihood to Recommend,95,0.00%,0.80%,1.30%
+Other Patient,Likelihood to Recommend,96,0.00%,0.80%,1.30%
+Other Patient,Likelihood to Recommend,97,0.00%,0.80%,1.30%
+Other Patient,Likelihood to Recommend,98,0.00%,0.80%,1.30%
+Other Patient,Likelihood to Recommend,99,0.00%,0.80%,1.30%
+Other Patient,Overall Rating,0,4.60%,6.80%,9.30%
+Other Patient,Overall Rating,1,4.60%,6.80%,9.30%
+Other Patient,Overall Rating,2,4.60%,6.80%,9.30%
+Other Patient,Overall Rating,3,4.60%,6.80%,9.30%
+Other Patient,Overall Rating,4,4.60%,6.80%,9.30%
+Other Patient,Overall Rating,5,4.60%,6.80%,9.30%
+Other Patient,Overall Rating,6,4.60%,6.80%,9.30%
+Other Patient,Overall Rating,7,4.60%,6.80%,9.30%
+Other Patient,Overall Rating,8,4.60%,6.80%,9.30%
+Other Patient,Overall Rating,9,4.60%,6.80%,9.30%
+Other Patient,Overall Rating,10,4.20%,6.20%,8.50%
+Other Patient,Overall Rating,11,4.20%,6.20%,8.50%
+Other Patient,Overall Rating,12,4.20%,6.20%,8.50%
+Other Patient,Overall Rating,13,4.20%,6.20%,8.50%
+Other Patient,Overall Rating,14,4.20%,6.20%,8.50%
+Other Patient,Overall Rating,15,4.20%,6.20%,8.50%
+Other Patient,Overall Rating,16,4.20%,6.20%,8.50%
+Other Patient,Overall Rating,17,4.20%,6.20%,8.50%
+Other Patient,Overall Rating,18,4.20%,6.20%,8.50%
+Other Patient,Overall Rating,19,4.20%,6.20%,8.50%
+Other Patient,Overall Rating,20,3.70%,5.60%,7.70%
+Other Patient,Overall Rating,21,3.70%,5.60%,7.70%
+Other Patient,Overall Rating,22,3.70%,5.60%,7.70%
+Other Patient,Overall Rating,23,3.70%,5.60%,7.70%
+Other Patient,Overall Rating,24,3.70%,5.60%,7.70%
+Other Patient,Overall Rating,25,3.70%,5.60%,7.70%
+Other Patient,Overall Rating,26,3.70%,5.60%,7.70%
+Other Patient,Overall Rating,27,3.70%,5.60%,7.70%
+Other Patient,Overall Rating,28,3.70%,5.60%,7.70%
+Other Patient,Overall Rating,29,3.70%,5.60%,7.70%
+Other Patient,Overall Rating,30,3.30%,5.00%,6.90%
+Other Patient,Overall Rating,31,3.30%,5.00%,6.90%
+Other Patient,Overall Rating,32,3.30%,5.00%,6.90%
+Other Patient,Overall Rating,33,3.30%,5.00%,6.90%
+Other Patient,Overall Rating,34,3.30%,5.00%,6.90%
+Other Patient,Overall Rating,35,3.30%,5.00%,6.90%
+Other Patient,Overall Rating,36,3.30%,5.00%,6.90%
+Other Patient,Overall Rating,37,3.30%,5.00%,6.90%
+Other Patient,Overall Rating,38,3.30%,5.00%,6.90%
+Other Patient,Overall Rating,39,3.30%,5.00%,6.90%
+Other Patient,Overall Rating,40,2.80%,4.40%,6.10%
+Other Patient,Overall Rating,41,2.80%,4.40%,6.10%
+Other Patient,Overall Rating,42,2.80%,4.40%,6.10%
+Other Patient,Overall Rating,43,2.80%,4.40%,6.10%
+Other Patient,Overall Rating,44,2.80%,4.40%,6.10%
+Other Patient,Overall Rating,45,2.80%,4.40%,6.10%
+Other Patient,Overall Rating,46,2.80%,4.40%,6.10%
+Other Patient,Overall Rating,47,2.80%,4.40%,6.10%
+Other Patient,Overall Rating,48,2.80%,4.40%,6.10%
+Other Patient,Overall Rating,49,2.80%,4.40%,6.10%
+Other Patient,Overall Rating,50,2.40%,3.90%,5.40%
+Other Patient,Overall Rating,51,2.40%,3.90%,5.40%
+Other Patient,Overall Rating,52,2.40%,3.90%,5.40%
+Other Patient,Overall Rating,53,2.40%,3.90%,5.40%
+Other Patient,Overall Rating,54,2.40%,3.90%,5.40%
+Other Patient,Overall Rating,55,2.40%,3.90%,5.40%
+Other Patient,Overall Rating,56,2.40%,3.90%,5.40%
+Other Patient,Overall Rating,57,2.40%,3.90%,5.40%
+Other Patient,Overall Rating,58,2.40%,3.90%,5.40%
+Other Patient,Overall Rating,59,2.40%,3.90%,5.40%
+Other Patient,Overall Rating,60,1.80%,3.10%,4.40%
+Other Patient,Overall Rating,61,1.80%,3.10%,4.40%
+Other Patient,Overall Rating,62,1.80%,3.10%,4.40%
+Other Patient,Overall Rating,63,1.80%,3.10%,4.40%
+Other Patient,Overall Rating,64,1.80%,3.10%,4.40%
+Other Patient,Overall Rating,65,1.80%,3.10%,4.40%
+Other Patient,Overall Rating,66,1.80%,3.10%,4.40%
+Other Patient,Overall Rating,67,1.80%,3.10%,4.40%
+Other Patient,Overall Rating,68,1.80%,3.10%,4.40%
+Other Patient,Overall Rating,69,1.80%,3.10%,4.40%
+Other Patient,Overall Rating,70,1.20%,2.30%,3.40%
+Other Patient,Overall Rating,71,1.20%,2.30%,3.40%
+Other Patient,Overall Rating,72,1.20%,2.30%,3.40%
+Other Patient,Overall Rating,73,1.20%,2.30%,3.40%
+Other Patient,Overall Rating,74,1.20%,2.30%,3.40%
+Other Patient,Overall Rating,75,1.20%,2.30%,3.40%
+Other Patient,Overall Rating,76,1.20%,2.30%,3.40%
+Other Patient,Overall Rating,77,1.20%,2.30%,3.40%
+Other Patient,Overall Rating,78,1.20%,2.30%,3.40%
+Other Patient,Overall Rating,79,1.20%,2.30%,3.40%
+Other Patient,Overall Rating,80,0.60%,1.60%,2.50%
+Other Patient,Overall Rating,81,0.60%,1.60%,2.50%
+Other Patient,Overall Rating,82,0.60%,1.60%,2.50%
+Other Patient,Overall Rating,83,0.60%,1.60%,2.50%
+Other Patient,Overall Rating,84,0.60%,1.60%,2.50%
+Other Patient,Overall Rating,85,0.60%,1.60%,2.50%
+Other Patient,Overall Rating,86,0.60%,1.60%,2.50%
+Other Patient,Overall Rating,87,0.60%,1.60%,2.50%
+Other Patient,Overall Rating,88,0.60%,1.60%,2.50%
+Other Patient,Overall Rating,89,0.60%,1.60%,2.50%
+Other Patient,Overall Rating,90,0.00%,0.80%,1.50%
+Other Patient,Overall Rating,91,0.00%,0.80%,1.50%
+Other Patient,Overall Rating,92,0.00%,0.80%,1.50%
+Other Patient,Overall Rating,93,0.00%,0.80%,1.50%
+Other Patient,Overall Rating,94,0.00%,0.80%,1.50%
+Other Patient,Overall Rating,95,0.00%,0.80%,1.50%
+Other Patient,Overall Rating,96,0.00%,0.80%,1.50%
+Other Patient,Overall Rating,97,0.00%,0.80%,1.50%
+Other Patient,Overall Rating,98,0.00%,0.80%,1.50%
+Other Patient,Overall Rating,99,0.00%,0.80%,1.50%
+Other Patient,Other,0,2.70%,4.00%,5.30%
+Other Patient,Other,1,2.70%,4.00%,5.30%
+Other Patient,Other,2,2.70%,4.00%,5.30%
+Other Patient,Other,3,2.70%,4.00%,5.30%
+Other Patient,Other,4,2.70%,4.00%,5.30%
+Other Patient,Other,5,2.70%,4.00%,5.30%
+Other Patient,Other,6,2.70%,4.00%,5.30%
+Other Patient,Other,7,2.70%,4.00%,5.30%
+Other Patient,Other,8,2.70%,4.00%,5.30%
+Other Patient,Other,9,2.70%,4.00%,5.30%
+Other Patient,Other,10,2.50%,3.70%,5.00%
+Other Patient,Other,11,2.50%,3.70%,5.00%
+Other Patient,Other,12,2.50%,3.70%,5.00%
+Other Patient,Other,13,2.50%,3.70%,5.00%
+Other Patient,Other,14,2.50%,3.70%,5.00%
+Other Patient,Other,15,2.50%,3.70%,5.00%
+Other Patient,Other,16,2.50%,3.70%,5.00%
+Other Patient,Other,17,2.50%,3.70%,5.00%
+Other Patient,Other,18,2.50%,3.70%,5.00%
+Other Patient,Other,19,2.50%,3.70%,5.00%
+Other Patient,Other,20,2.30%,3.50%,4.70%
+Other Patient,Other,21,2.30%,3.50%,4.70%
+Other Patient,Other,22,2.30%,3.50%,4.70%
+Other Patient,Other,23,2.30%,3.50%,4.70%
+Other Patient,Other,24,2.30%,3.50%,4.70%
+Other Patient,Other,25,2.30%,3.50%,4.70%
+Other Patient,Other,26,2.30%,3.50%,4.70%
+Other Patient,Other,27,2.30%,3.50%,4.70%
+Other Patient,Other,28,2.30%,3.50%,4.70%
+Other Patient,Other,29,2.30%,3.50%,4.70%
+Other Patient,Other,30,2.10%,3.20%,4.50%
+Other Patient,Other,31,2.10%,3.20%,4.50%
+Other Patient,Other,32,2.10%,3.20%,4.50%
+Other Patient,Other,33,2.10%,3.20%,4.50%
+Other Patient,Other,34,2.10%,3.20%,4.50%
+Other Patient,Other,35,2.10%,3.20%,4.50%
+Other Patient,Other,36,2.10%,3.20%,4.50%
+Other Patient,Other,37,2.10%,3.20%,4.50%
+Other Patient,Other,38,2.10%,3.20%,4.50%
+Other Patient,Other,39,2.10%,3.20%,4.50%
+Other Patient,Other,40,2.00%,3.00%,4.20%
+Other Patient,Other,41,2.00%,3.00%,4.20%
+Other Patient,Other,42,2.00%,3.00%,4.20%
+Other Patient,Other,43,2.00%,3.00%,4.20%
+Other Patient,Other,44,2.00%,3.00%,4.20%
+Other Patient,Other,45,2.00%,3.00%,4.20%
+Other Patient,Other,46,2.00%,3.00%,4.20%
+Other Patient,Other,47,2.00%,3.00%,4.20%
+Other Patient,Other,48,2.00%,3.00%,4.20%
+Other Patient,Other,49,2.00%,3.00%,4.20%
+Other Patient,Other,50,1.80%,2.80%,3.90%
+Other Patient,Other,51,1.80%,2.80%,3.90%
+Other Patient,Other,52,1.80%,2.80%,3.90%
+Other Patient,Other,53,1.80%,2.80%,3.90%
+Other Patient,Other,54,1.80%,2.80%,3.90%
+Other Patient,Other,55,1.80%,2.80%,3.90%
+Other Patient,Other,56,1.80%,2.80%,3.90%
+Other Patient,Other,57,1.80%,2.80%,3.90%
+Other Patient,Other,58,1.80%,2.80%,3.90%
+Other Patient,Other,59,1.80%,2.80%,3.90%
+Other Patient,Other,60,1.30%,2.30%,3.30%
+Other Patient,Other,61,1.30%,2.30%,3.30%
+Other Patient,Other,62,1.30%,2.30%,3.30%
+Other Patient,Other,63,1.30%,2.30%,3.30%
+Other Patient,Other,64,1.30%,2.30%,3.30%
+Other Patient,Other,65,1.30%,2.30%,3.30%
+Other Patient,Other,66,1.30%,2.30%,3.30%
+Other Patient,Other,67,1.30%,2.30%,3.30%
+Other Patient,Other,68,1.30%,2.30%,3.30%
+Other Patient,Other,69,1.30%,2.30%,3.30%
+Other Patient,Other,70,0.90%,1.90%,2.70%
+Other Patient,Other,71,0.90%,1.90%,2.70%
+Other Patient,Other,72,0.90%,1.90%,2.70%
+Other Patient,Other,73,0.90%,1.90%,2.70%
+Other Patient,Other,74,0.90%,1.90%,2.70%
+Other Patient,Other,75,0.90%,1.90%,2.70%
+Other Patient,Other,76,0.90%,1.90%,2.70%
+Other Patient,Other,77,0.90%,1.90%,2.70%
+Other Patient,Other,78,0.90%,1.90%,2.70%
+Other Patient,Other,79,0.90%,1.90%,2.70%
+Other Patient,Other,80,0.40%,1.40%,2.10%
+Other Patient,Other,81,0.40%,1.40%,2.10%
+Other Patient,Other,82,0.40%,1.40%,2.10%
+Other Patient,Other,83,0.40%,1.40%,2.10%
+Other Patient,Other,84,0.40%,1.40%,2.10%
+Other Patient,Other,85,0.40%,1.40%,2.10%
+Other Patient,Other,86,0.40%,1.40%,2.10%
+Other Patient,Other,87,0.40%,1.40%,2.10%
+Other Patient,Other,88,0.40%,1.40%,2.10%
+Other Patient,Other,89,0.40%,1.40%,2.10%
+Other Patient,Other,90,0.00%,1.00%,1.50%
+Other Patient,Other,91,0.00%,1.00%,1.50%
+Other Patient,Other,92,0.00%,1.00%,1.50%
+Other Patient,Other,93,0.00%,1.00%,1.50%
+Other Patient,Other,94,0.00%,1.00%,1.50%
+Other Patient,Other,95,0.00%,1.00%,1.50%
+Other Patient,Other,96,0.00%,1.00%,1.50%
+Other Patient,Other,97,0.00%,1.00%,1.50%
+Other Patient,Other,98,0.00%,1.00%,1.50%
+Other Patient,Other,99,0.00%,1.00%,1.50%
+Employee,Employee Satisfaction,0,15.00%,22.00%,30.50%
+Employee,Employee Satisfaction,1,15.00%,22.00%,30.50%
+Employee,Employee Satisfaction,2,15.00%,22.00%,30.50%
+Employee,Employee Satisfaction,3,15.00%,22.00%,30.50%
+Employee,Employee Satisfaction,4,15.00%,22.00%,30.50%
+Employee,Employee Satisfaction,5,15.00%,22.00%,30.50%
+Employee,Employee Satisfaction,6,15.00%,22.00%,30.50%
+Employee,Employee Satisfaction,7,15.00%,22.00%,30.50%
+Employee,Employee Satisfaction,8,15.00%,22.00%,30.50%
+Employee,Employee Satisfaction,9,15.00%,22.00%,30.50%
+Employee,Employee Satisfaction,10,13.60%,20.00%,27.90%
+Employee,Employee Satisfaction,11,13.60%,20.00%,27.90%
+Employee,Employee Satisfaction,12,13.60%,20.00%,27.90%
+Employee,Employee Satisfaction,13,13.60%,20.00%,27.90%
+Employee,Employee Satisfaction,14,13.60%,20.00%,27.90%
+Employee,Employee Satisfaction,15,13.60%,20.00%,27.90%
+Employee,Employee Satisfaction,16,13.60%,20.00%,27.90%
+Employee,Employee Satisfaction,17,13.60%,20.00%,27.90%
+Employee,Employee Satisfaction,18,13.60%,20.00%,27.90%
+Employee,Employee Satisfaction,19,13.60%,20.00%,27.90%
+Employee,Employee Satisfaction,20,12.20%,18.00%,25.20%
+Employee,Employee Satisfaction,21,12.20%,18.00%,25.20%
+Employee,Employee Satisfaction,22,12.20%,18.00%,25.20%
+Employee,Employee Satisfaction,23,12.20%,18.00%,25.20%
+Employee,Employee Satisfaction,24,12.20%,18.00%,25.20%
+Employee,Employee Satisfaction,25,12.20%,18.00%,25.20%
+Employee,Employee Satisfaction,26,12.20%,18.00%,25.20%
+Employee,Employee Satisfaction,27,12.20%,18.00%,25.20%
+Employee,Employee Satisfaction,28,12.20%,18.00%,25.20%
+Employee,Employee Satisfaction,29,12.20%,18.00%,25.20%
+Employee,Employee Satisfaction,30,10.70%,16.00%,22.60%
+Employee,Employee Satisfaction,31,10.70%,16.00%,22.60%
+Employee,Employee Satisfaction,32,10.70%,16.00%,22.60%
+Employee,Employee Satisfaction,33,10.70%,16.00%,22.60%
+Employee,Employee Satisfaction,34,10.70%,16.00%,22.60%
+Employee,Employee Satisfaction,35,10.70%,16.00%,22.60%
+Employee,Employee Satisfaction,36,10.70%,16.00%,22.60%
+Employee,Employee Satisfaction,37,10.70%,16.00%,22.60%
+Employee,Employee Satisfaction,38,10.70%,16.00%,22.60%
+Employee,Employee Satisfaction,39,10.70%,16.00%,22.60%
+Employee,Employee Satisfaction,40,9.30%,14.00%,19.90%
+Employee,Employee Satisfaction,41,9.30%,14.00%,19.90%
+Employee,Employee Satisfaction,42,9.30%,14.00%,19.90%
+Employee,Employee Satisfaction,43,9.30%,14.00%,19.90%
+Employee,Employee Satisfaction,44,9.30%,14.00%,19.90%
+Employee,Employee Satisfaction,45,9.30%,14.00%,19.90%
+Employee,Employee Satisfaction,46,9.30%,14.00%,19.90%
+Employee,Employee Satisfaction,47,9.30%,14.00%,19.90%
+Employee,Employee Satisfaction,48,9.30%,14.00%,19.90%
+Employee,Employee Satisfaction,49,9.30%,14.00%,19.90%
+Employee,Employee Satisfaction,50,7.90%,12.00%,17.30%
+Employee,Employee Satisfaction,51,7.90%,12.00%,17.30%
+Employee,Employee Satisfaction,52,7.90%,12.00%,17.30%
+Employee,Employee Satisfaction,53,7.90%,12.00%,17.30%
+Employee,Employee Satisfaction,54,7.90%,12.00%,17.30%
+Employee,Employee Satisfaction,55,7.90%,12.00%,17.30%
+Employee,Employee Satisfaction,56,7.90%,12.00%,17.30%
+Employee,Employee Satisfaction,57,7.90%,12.00%,17.30%
+Employee,Employee Satisfaction,58,7.90%,12.00%,17.30%
+Employee,Employee Satisfaction,59,7.90%,12.00%,17.30%
+Employee,Employee Satisfaction,60,5.90%,9.60%,14.20%
+Employee,Employee Satisfaction,61,5.90%,9.60%,14.20%
+Employee,Employee Satisfaction,62,5.90%,9.60%,14.20%
+Employee,Employee Satisfaction,63,5.90%,9.60%,14.20%
+Employee,Employee Satisfaction,64,5.90%,9.60%,14.20%
+Employee,Employee Satisfaction,65,5.90%,9.60%,14.20%
+Employee,Employee Satisfaction,66,5.90%,9.60%,14.20%
+Employee,Employee Satisfaction,67,5.90%,9.60%,14.20%
+Employee,Employee Satisfaction,68,5.90%,9.60%,14.20%
+Employee,Employee Satisfaction,69,5.90%,9.60%,14.20%
+Employee,Employee Satisfaction,70,4.00%,7.30%,11.20%
+Employee,Employee Satisfaction,71,4.00%,7.30%,11.20%
+Employee,Employee Satisfaction,72,4.00%,7.30%,11.20%
+Employee,Employee Satisfaction,73,4.00%,7.30%,11.20%
+Employee,Employee Satisfaction,74,4.00%,7.30%,11.20%
+Employee,Employee Satisfaction,75,4.00%,7.30%,11.20%
+Employee,Employee Satisfaction,76,4.00%,7.30%,11.20%
+Employee,Employee Satisfaction,77,4.00%,7.30%,11.20%
+Employee,Employee Satisfaction,78,4.00%,7.30%,11.20%
+Employee,Employee Satisfaction,79,4.00%,7.30%,11.20%
+Employee,Employee Satisfaction,80,2.00%,4.90%,8.10%
+Employee,Employee Satisfaction,81,2.00%,4.90%,8.10%
+Employee,Employee Satisfaction,82,2.00%,4.90%,8.10%
+Employee,Employee Satisfaction,83,2.00%,4.90%,8.10%
+Employee,Employee Satisfaction,84,2.00%,4.90%,8.10%
+Employee,Employee Satisfaction,85,2.00%,4.90%,8.10%
+Employee,Employee Satisfaction,86,2.00%,4.90%,8.10%
+Employee,Employee Satisfaction,87,2.00%,4.90%,8.10%
+Employee,Employee Satisfaction,88,2.00%,4.90%,8.10%
+Employee,Employee Satisfaction,89,2.00%,4.90%,8.10%
+Employee,Employee Satisfaction,90,0.00%,2.50%,5.00%
+Employee,Employee Satisfaction,91,0.00%,2.50%,5.00%
+Employee,Employee Satisfaction,92,0.00%,2.50%,5.00%
+Employee,Employee Satisfaction,93,0.00%,2.50%,5.00%
+Employee,Employee Satisfaction,94,0.00%,2.50%,5.00%
+Employee,Employee Satisfaction,95,0.00%,2.50%,5.00%
+Employee,Employee Satisfaction,96,0.00%,2.50%,5.00%
+Employee,Employee Satisfaction,97,0.00%,2.50%,5.00%
+Employee,Employee Satisfaction,98,0.00%,2.50%,5.00%
+Employee,Employee Satisfaction,99,0.00%,2.50%,5.00%
+Employee,Organization Engagement,0,11.50%,17.00%,23.00%
+Employee,Organization Engagement,1,11.50%,17.00%,23.00%
+Employee,Organization Engagement,2,11.50%,17.00%,23.00%
+Employee,Organization Engagement,3,11.50%,17.00%,23.00%
+Employee,Organization Engagement,4,11.50%,17.00%,23.00%
+Employee,Organization Engagement,5,11.50%,17.00%,23.00%
+Employee,Organization Engagement,6,11.50%,17.00%,23.00%
+Employee,Organization Engagement,7,11.50%,17.00%,23.00%
+Employee,Organization Engagement,8,11.50%,17.00%,23.00%
+Employee,Organization Engagement,9,11.50%,17.00%,23.00%
+Employee,Organization Engagement,10,10.30%,15.60%,20.90%
+Employee,Organization Engagement,11,10.30%,15.60%,20.90%
+Employee,Organization Engagement,12,10.30%,15.60%,20.90%
+Employee,Organization Engagement,13,10.30%,15.60%,20.90%
+Employee,Organization Engagement,14,10.30%,15.60%,20.90%
+Employee,Organization Engagement,15,10.30%,15.60%,20.90%
+Employee,Organization Engagement,16,10.30%,15.60%,20.90%
+Employee,Organization Engagement,17,10.30%,15.60%,20.90%
+Employee,Organization Engagement,18,10.30%,15.60%,20.90%
+Employee,Organization Engagement,19,10.30%,15.60%,20.90%
+Employee,Organization Engagement,20,9.10%,14.20%,18.80%
+Employee,Organization Engagement,21,9.10%,14.20%,18.80%
+Employee,Organization Engagement,22,9.10%,14.20%,18.80%
+Employee,Organization Engagement,23,9.10%,14.20%,18.80%
+Employee,Organization Engagement,24,9.10%,14.20%,18.80%
+Employee,Organization Engagement,25,9.10%,14.20%,18.80%
+Employee,Organization Engagement,26,9.10%,14.20%,18.80%
+Employee,Organization Engagement,27,9.10%,14.20%,18.80%
+Employee,Organization Engagement,28,9.10%,14.20%,18.80%
+Employee,Organization Engagement,29,9.10%,14.20%,18.80%
+Employee,Organization Engagement,30,8.00%,12.80%,16.80%
+Employee,Organization Engagement,31,8.00%,12.80%,16.80%
+Employee,Organization Engagement,32,8.00%,12.80%,16.80%
+Employee,Organization Engagement,33,8.00%,12.80%,16.80%
+Employee,Organization Engagement,34,8.00%,12.80%,16.80%
+Employee,Organization Engagement,35,8.00%,12.80%,16.80%
+Employee,Organization Engagement,36,8.00%,12.80%,16.80%
+Employee,Organization Engagement,37,8.00%,12.80%,16.80%
+Employee,Organization Engagement,38,8.00%,12.80%,16.80%
+Employee,Organization Engagement,39,8.00%,12.80%,16.80%
+Employee,Organization Engagement,40,6.80%,11.40%,14.70%
+Employee,Organization Engagement,41,6.80%,11.40%,14.70%
+Employee,Organization Engagement,42,6.80%,11.40%,14.70%
+Employee,Organization Engagement,43,6.80%,11.40%,14.70%
+Employee,Organization Engagement,44,6.80%,11.40%,14.70%
+Employee,Organization Engagement,45,6.80%,11.40%,14.70%
+Employee,Organization Engagement,46,6.80%,11.40%,14.70%
+Employee,Organization Engagement,47,6.80%,11.40%,14.70%
+Employee,Organization Engagement,48,6.80%,11.40%,14.70%
+Employee,Organization Engagement,49,6.80%,11.40%,14.70%
+Employee,Organization Engagement,50,5.60%,10.00%,12.60%
+Employee,Organization Engagement,51,5.60%,10.00%,12.60%
+Employee,Organization Engagement,52,5.60%,10.00%,12.60%
+Employee,Organization Engagement,53,5.60%,10.00%,12.60%
+Employee,Organization Engagement,54,5.60%,10.00%,12.60%
+Employee,Organization Engagement,55,5.60%,10.00%,12.60%
+Employee,Organization Engagement,56,5.60%,10.00%,12.60%
+Employee,Organization Engagement,57,5.60%,10.00%,12.60%
+Employee,Organization Engagement,58,5.60%,10.00%,12.60%
+Employee,Organization Engagement,59,5.60%,10.00%,12.60%
+Employee,Organization Engagement,60,4.20%,7.90%,10.30%
+Employee,Organization Engagement,61,4.20%,7.90%,10.30%
+Employee,Organization Engagement,62,4.20%,7.90%,10.30%
+Employee,Organization Engagement,63,4.20%,7.90%,10.30%
+Employee,Organization Engagement,64,4.20%,7.90%,10.30%
+Employee,Organization Engagement,65,4.20%,7.90%,10.30%
+Employee,Organization Engagement,66,4.20%,7.90%,10.30%
+Employee,Organization Engagement,67,4.20%,7.90%,10.30%
+Employee,Organization Engagement,68,4.20%,7.90%,10.30%
+Employee,Organization Engagement,69,4.20%,7.90%,10.30%
+Employee,Organization Engagement,70,2.80%,5.80%,8.10%
+Employee,Organization Engagement,71,2.80%,5.80%,8.10%
+Employee,Organization Engagement,72,2.80%,5.80%,8.10%
+Employee,Organization Engagement,73,2.80%,5.80%,8.10%
+Employee,Organization Engagement,74,2.80%,5.80%,8.10%
+Employee,Organization Engagement,75,2.80%,5.80%,8.10%
+Employee,Organization Engagement,76,2.80%,5.80%,8.10%
+Employee,Organization Engagement,77,2.80%,5.80%,8.10%
+Employee,Organization Engagement,78,2.80%,5.80%,8.10%
+Employee,Organization Engagement,79,2.80%,5.80%,8.10%
+Employee,Organization Engagement,80,1.40%,3.60%,5.80%
+Employee,Organization Engagement,81,1.40%,3.60%,5.80%
+Employee,Organization Engagement,82,1.40%,3.60%,5.80%
+Employee,Organization Engagement,83,1.40%,3.60%,5.80%
+Employee,Organization Engagement,84,1.40%,3.60%,5.80%
+Employee,Organization Engagement,85,1.40%,3.60%,5.80%
+Employee,Organization Engagement,86,1.40%,3.60%,5.80%
+Employee,Organization Engagement,87,1.40%,3.60%,5.80%
+Employee,Organization Engagement,88,1.40%,3.60%,5.80%
+Employee,Organization Engagement,89,1.40%,3.60%,5.80%
+Employee,Organization Engagement,90,0.00%,1.50%,3.50%
+Employee,Organization Engagement,91,0.00%,1.50%,3.50%
+Employee,Organization Engagement,92,0.00%,1.50%,3.50%
+Employee,Organization Engagement,93,0.00%,1.50%,3.50%
+Employee,Organization Engagement,94,0.00%,1.50%,3.50%
+Employee,Organization Engagement,95,0.00%,1.50%,3.50%
+Employee,Organization Engagement,96,0.00%,1.50%,3.50%
+Employee,Organization Engagement,97,0.00%,1.50%,3.50%
+Employee,Organization Engagement,98,0.00%,1.50%,3.50%
+Employee,Organization Engagement,99,0.00%,1.50%,3.50%
+Employee,Job Engagement,0,6.00%,9.50%,13.50%
+Employee,Job Engagement,1,6.00%,9.50%,13.50%
+Employee,Job Engagement,2,6.00%,9.50%,13.50%
+Employee,Job Engagement,3,6.00%,9.50%,13.50%
+Employee,Job Engagement,4,6.00%,9.50%,13.50%
+Employee,Job Engagement,5,6.00%,9.50%,13.50%
+Employee,Job Engagement,6,6.00%,9.50%,13.50%
+Employee,Job Engagement,7,6.00%,9.50%,13.50%
+Employee,Job Engagement,8,6.00%,9.50%,13.50%
+Employee,Job Engagement,9,6.00%,9.50%,13.50%
+Employee,Job Engagement,10,5.60%,9.00%,12.60%
+Employee,Job Engagement,11,5.60%,9.00%,12.60%
+Employee,Job Engagement,12,5.60%,9.00%,12.60%
+Employee,Job Engagement,13,5.60%,9.00%,12.60%
+Employee,Job Engagement,14,5.60%,9.00%,12.60%
+Employee,Job Engagement,15,5.60%,9.00%,12.60%
+Employee,Job Engagement,16,5.60%,9.00%,12.60%
+Employee,Job Engagement,17,5.60%,9.00%,12.60%
+Employee,Job Engagement,18,5.60%,9.00%,12.60%
+Employee,Job Engagement,19,5.60%,9.00%,12.60%
+Employee,Job Engagement,20,5.10%,8.50%,11.70%
+Employee,Job Engagement,21,5.10%,8.50%,11.70%
+Employee,Job Engagement,22,5.10%,8.50%,11.70%
+Employee,Job Engagement,23,5.10%,8.50%,11.70%
+Employee,Job Engagement,24,5.10%,8.50%,11.70%
+Employee,Job Engagement,25,5.10%,8.50%,11.70%
+Employee,Job Engagement,26,5.10%,8.50%,11.70%
+Employee,Job Engagement,27,5.10%,8.50%,11.70%
+Employee,Job Engagement,28,5.10%,8.50%,11.70%
+Employee,Job Engagement,29,5.10%,8.50%,11.70%
+Employee,Job Engagement,30,4.70%,8.00%,10.80%
+Employee,Job Engagement,31,4.70%,8.00%,10.80%
+Employee,Job Engagement,32,4.70%,8.00%,10.80%
+Employee,Job Engagement,33,4.70%,8.00%,10.80%
+Employee,Job Engagement,34,4.70%,8.00%,10.80%
+Employee,Job Engagement,35,4.70%,8.00%,10.80%
+Employee,Job Engagement,36,4.70%,8.00%,10.80%
+Employee,Job Engagement,37,4.70%,8.00%,10.80%
+Employee,Job Engagement,38,4.70%,8.00%,10.80%
+Employee,Job Engagement,39,4.70%,8.00%,10.80%
+Employee,Job Engagement,40,4.20%,7.50%,9.90%
+Employee,Job Engagement,41,4.20%,7.50%,9.90%
+Employee,Job Engagement,42,4.20%,7.50%,9.90%
+Employee,Job Engagement,43,4.20%,7.50%,9.90%
+Employee,Job Engagement,44,4.20%,7.50%,9.90%
+Employee,Job Engagement,45,4.20%,7.50%,9.90%
+Employee,Job Engagement,46,4.20%,7.50%,9.90%
+Employee,Job Engagement,47,4.20%,7.50%,9.90%
+Employee,Job Engagement,48,4.20%,7.50%,9.90%
+Employee,Job Engagement,49,4.20%,7.50%,9.90%
+Employee,Job Engagement,50,3.80%,7.00%,9.00%
+Employee,Job Engagement,51,3.80%,7.00%,9.00%
+Employee,Job Engagement,52,3.80%,7.00%,9.00%
+Employee,Job Engagement,53,3.80%,7.00%,9.00%
+Employee,Job Engagement,54,3.80%,7.00%,9.00%
+Employee,Job Engagement,55,3.80%,7.00%,9.00%
+Employee,Job Engagement,56,3.80%,7.00%,9.00%
+Employee,Job Engagement,57,3.80%,7.00%,9.00%
+Employee,Job Engagement,58,3.80%,7.00%,9.00%
+Employee,Job Engagement,59,3.80%,7.00%,9.00%
+Employee,Job Engagement,60,2.90%,5.80%,7.50%
+Employee,Job Engagement,61,2.90%,5.80%,7.50%
+Employee,Job Engagement,62,2.90%,5.80%,7.50%
+Employee,Job Engagement,63,2.90%,5.80%,7.50%
+Employee,Job Engagement,64,2.90%,5.80%,7.50%
+Employee,Job Engagement,65,2.90%,5.80%,7.50%
+Employee,Job Engagement,66,2.90%,5.80%,7.50%
+Employee,Job Engagement,67,2.90%,5.80%,7.50%
+Employee,Job Engagement,68,2.90%,5.80%,7.50%
+Employee,Job Engagement,69,2.90%,5.80%,7.50%
+Employee,Job Engagement,70,1.90%,4.50%,6.00%
+Employee,Job Engagement,71,1.90%,4.50%,6.00%
+Employee,Job Engagement,72,1.90%,4.50%,6.00%
+Employee,Job Engagement,73,1.90%,4.50%,6.00%
+Employee,Job Engagement,74,1.90%,4.50%,6.00%
+Employee,Job Engagement,75,1.90%,4.50%,6.00%
+Employee,Job Engagement,76,1.90%,4.50%,6.00%
+Employee,Job Engagement,77,1.90%,4.50%,6.00%
+Employee,Job Engagement,78,1.90%,4.50%,6.00%
+Employee,Job Engagement,79,1.90%,4.50%,6.00%
+Employee,Job Engagement,80,1.00%,3.30%,4.50%
+Employee,Job Engagement,81,1.00%,3.30%,4.50%
+Employee,Job Engagement,82,1.00%,3.30%,4.50%
+Employee,Job Engagement,83,1.00%,3.30%,4.50%
+Employee,Job Engagement,84,1.00%,3.30%,4.50%
+Employee,Job Engagement,85,1.00%,3.30%,4.50%
+Employee,Job Engagement,86,1.00%,3.30%,4.50%
+Employee,Job Engagement,87,1.00%,3.30%,4.50%
+Employee,Job Engagement,88,1.00%,3.30%,4.50%
+Employee,Job Engagement,89,1.00%,3.30%,4.50%
+Employee,Job Engagement,90,0.00%,2.00%,3.00%
+Employee,Job Engagement,91,0.00%,2.00%,3.00%
+Employee,Job Engagement,92,0.00%,2.00%,3.00%
+Employee,Job Engagement,93,0.00%,2.00%,3.00%
+Employee,Job Engagement,94,0.00%,2.00%,3.00%
+Employee,Job Engagement,95,0.00%,2.00%,3.00%
+Employee,Job Engagement,96,0.00%,2.00%,3.00%
+Employee,Job Engagement,97,0.00%,2.00%,3.00%
+Employee,Job Engagement,98,0.00%,2.00%,3.00%
+Employee,Job Engagement,99,0.00%,2.00%,3.00%
+Physician,Physician Satisfaction,0,21.40%,29.60%,35.30%
+Physician,Physician Satisfaction,1,21.40%,29.60%,35.30%
+Physician,Physician Satisfaction,2,21.40%,29.60%,35.30%
+Physician,Physician Satisfaction,3,21.40%,29.60%,35.30%
+Physician,Physician Satisfaction,4,21.40%,29.60%,35.30%
+Physician,Physician Satisfaction,5,21.40%,29.60%,35.30%
+Physician,Physician Satisfaction,6,21.40%,29.60%,35.30%
+Physician,Physician Satisfaction,7,21.40%,29.60%,35.30%
+Physician,Physician Satisfaction,8,21.40%,29.60%,35.30%
+Physician,Physician Satisfaction,9,21.40%,29.60%,35.30%
+Physician,Physician Satisfaction,10,19.30%,27.20%,32.60%
+Physician,Physician Satisfaction,11,19.30%,27.20%,32.60%
+Physician,Physician Satisfaction,12,19.30%,27.20%,32.60%
+Physician,Physician Satisfaction,13,19.30%,27.20%,32.60%
+Physician,Physician Satisfaction,14,19.30%,27.20%,32.60%
+Physician,Physician Satisfaction,15,19.30%,27.20%,32.60%
+Physician,Physician Satisfaction,16,19.30%,27.20%,32.60%
+Physician,Physician Satisfaction,17,19.30%,27.20%,32.60%
+Physician,Physician Satisfaction,18,19.30%,27.20%,32.60%
+Physician,Physician Satisfaction,19,19.30%,27.20%,32.60%
+Physician,Physician Satisfaction,20,17.30%,24.80%,30.00%
+Physician,Physician Satisfaction,21,17.30%,24.80%,30.00%
+Physician,Physician Satisfaction,22,17.30%,24.80%,30.00%
+Physician,Physician Satisfaction,23,17.30%,24.80%,30.00%
+Physician,Physician Satisfaction,24,17.30%,24.80%,30.00%
+Physician,Physician Satisfaction,25,17.30%,24.80%,30.00%
+Physician,Physician Satisfaction,26,17.30%,24.80%,30.00%
+Physician,Physician Satisfaction,27,17.30%,24.80%,30.00%
+Physician,Physician Satisfaction,28,17.30%,24.80%,30.00%
+Physician,Physician Satisfaction,29,17.30%,24.80%,30.00%
+Physician,Physician Satisfaction,30,15.20%,22.30%,27.40%
+Physician,Physician Satisfaction,31,15.20%,22.30%,27.40%
+Physician,Physician Satisfaction,32,15.20%,22.30%,27.40%
+Physician,Physician Satisfaction,33,15.20%,22.30%,27.40%
+Physician,Physician Satisfaction,34,15.20%,22.30%,27.40%
+Physician,Physician Satisfaction,35,15.20%,22.30%,27.40%
+Physician,Physician Satisfaction,36,15.20%,22.30%,27.40%
+Physician,Physician Satisfaction,37,15.20%,22.30%,27.40%
+Physician,Physician Satisfaction,38,15.20%,22.30%,27.40%
+Physician,Physician Satisfaction,39,15.20%,22.30%,27.40%
+Physician,Physician Satisfaction,40,13.20%,19.90%,24.80%
+Physician,Physician Satisfaction,41,13.20%,19.90%,24.80%
+Physician,Physician Satisfaction,42,13.20%,19.90%,24.80%
+Physician,Physician Satisfaction,43,13.20%,19.90%,24.80%
+Physician,Physician Satisfaction,44,13.20%,19.90%,24.80%
+Physician,Physician Satisfaction,45,13.20%,19.90%,24.80%
+Physician,Physician Satisfaction,46,13.20%,19.90%,24.80%
+Physician,Physician Satisfaction,47,13.20%,19.90%,24.80%
+Physician,Physician Satisfaction,48,13.20%,19.90%,24.80%
+Physician,Physician Satisfaction,49,13.20%,19.90%,24.80%
+Physician,Physician Satisfaction,50,11.10%,17.50%,22.20%
+Physician,Physician Satisfaction,51,11.10%,17.50%,22.20%
+Physician,Physician Satisfaction,52,11.10%,17.50%,22.20%
+Physician,Physician Satisfaction,53,11.10%,17.50%,22.20%
+Physician,Physician Satisfaction,54,11.10%,17.50%,22.20%
+Physician,Physician Satisfaction,55,11.10%,17.50%,22.20%
+Physician,Physician Satisfaction,56,11.10%,17.50%,22.20%
+Physician,Physician Satisfaction,57,11.10%,17.50%,22.20%
+Physician,Physician Satisfaction,58,11.10%,17.50%,22.20%
+Physician,Physician Satisfaction,59,11.10%,17.50%,22.20%
+Physician,Physician Satisfaction,60,8.30%,14.10%,18.10%
+Physician,Physician Satisfaction,61,8.30%,14.10%,18.10%
+Physician,Physician Satisfaction,62,8.30%,14.10%,18.10%
+Physician,Physician Satisfaction,63,8.30%,14.10%,18.10%
+Physician,Physician Satisfaction,64,8.30%,14.10%,18.10%
+Physician,Physician Satisfaction,65,8.30%,14.10%,18.10%
+Physician,Physician Satisfaction,66,8.30%,14.10%,18.10%
+Physician,Physician Satisfaction,67,8.30%,14.10%,18.10%
+Physician,Physician Satisfaction,68,8.30%,14.10%,18.10%
+Physician,Physician Satisfaction,69,8.30%,14.10%,18.10%
+Physician,Physician Satisfaction,70,5.60%,10.80%,13.90%
+Physician,Physician Satisfaction,71,5.60%,10.80%,13.90%
+Physician,Physician Satisfaction,72,5.60%,10.80%,13.90%
+Physician,Physician Satisfaction,73,5.60%,10.80%,13.90%
+Physician,Physician Satisfaction,74,5.60%,10.80%,13.90%
+Physician,Physician Satisfaction,75,5.60%,10.80%,13.90%
+Physician,Physician Satisfaction,76,5.60%,10.80%,13.90%
+Physician,Physician Satisfaction,77,5.60%,10.80%,13.90%
+Physician,Physician Satisfaction,78,5.60%,10.80%,13.90%
+Physician,Physician Satisfaction,79,5.60%,10.80%,13.90%
+Physician,Physician Satisfaction,80,2.80%,7.50%,9.80%
+Physician,Physician Satisfaction,81,2.80%,7.50%,9.80%
+Physician,Physician Satisfaction,82,2.80%,7.50%,9.80%
+Physician,Physician Satisfaction,83,2.80%,7.50%,9.80%
+Physician,Physician Satisfaction,84,2.80%,7.50%,9.80%
+Physician,Physician Satisfaction,85,2.80%,7.50%,9.80%
+Physician,Physician Satisfaction,86,2.80%,7.50%,9.80%
+Physician,Physician Satisfaction,87,2.80%,7.50%,9.80%
+Physician,Physician Satisfaction,88,2.80%,7.50%,9.80%
+Physician,Physician Satisfaction,89,2.80%,7.50%,9.80%
+Physician,Physician Satisfaction,90,0.00%,4.10%,5.60%
+Physician,Physician Satisfaction,91,0.00%,4.10%,5.60%
+Physician,Physician Satisfaction,92,0.00%,4.10%,5.60%
+Physician,Physician Satisfaction,93,0.00%,4.10%,5.60%
+Physician,Physician Satisfaction,94,0.00%,4.10%,5.60%
+Physician,Physician Satisfaction,95,0.00%,4.10%,5.60%
+Physician,Physician Satisfaction,96,0.00%,4.10%,5.60%
+Physician,Physician Satisfaction,97,0.00%,4.10%,5.60%
+Physician,Physician Satisfaction,98,0.00%,4.10%,5.60%
+Physician,Physician Satisfaction,99,0.00%,4.10%,5.60%
