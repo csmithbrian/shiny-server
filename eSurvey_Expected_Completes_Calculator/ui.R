@@ -27,7 +27,7 @@ shinyUI(fluidPage(
       sliderInput("emailcapturerate",
                    "Email Capture Rate:",
                    min = 1,
-                   max = 100,
+                   max = 99,
                    value = 55),
       htmlOutput("typical_emails"),
       textOutput("emailratespiel"),
