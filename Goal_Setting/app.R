@@ -12,6 +12,7 @@ library(rhandsontable)
 question_dropdown <- c("Overall Rating","Likelihood to Recommend","Employee Satisfaction","Physician Satisfaction","Job Engagement","Organization Engagement","Other")
 
 surveys <- c('Inpatient','Outpatient','ED','OP SDS/ASC','CGCAHPS(Phone 12M)','CGCAHPS(Phone Visit)','CGCAHPS(eSurvey 12M)','CGCAHPS(eSurvey Visit)','CG-CAHPS Visit Child','CG-CAHPS ACO','Adult PCMH','Child PCMH','Home Health','OP Behavioral','IP Behavioral','IP Rehab','OP Rehab','ED Peds','OP Peds','IP Peds','NICU','PCA','Hemodialysis','Urgent Care','Walk-In Clinic','IP Long term Care','Employee Insights','Physician Insights')
+surveyslist <- list("Patient" = c('Inpatient','Outpatient','ED','OP SDS/ASC','Home Health','OP Behavioral','IP Behavioral','IP Rehab','OP Rehab','ED Peds','OP Peds','IP Peds','NICU','PCA','Hemodialysis','Urgent Care','Walk-In Clinic','IP Long term Care'),"CGCAHPS" = c('CGCAHPS(Phone 12M)','CGCAHPS(Phone Visit)','CGCAHPS(eSurvey 12M)','CGCAHPS(eSurvey Visit)','CG-CAHPS Visit Child','CG-CAHPS ACO','Adult PCMH','Child PCMH'),"Employee and Physician" = c('Employee Insights','Physician Insights'))
 surveygroups <- data.frame(survey=surveys,group=c('Inpatient','OP / SDS','ED','OP / SDS','CG','CG','CG','CG','CG','CG','CG','CG','Other Patient','Other Patient','Other Patient','Inpatient','OP / SDS','ED','OP / SDS','Inpatient','Other Patient','Other Patient','Other Patient','ED','Other Patient','Other Patient','Employee','Physician'))
 
 goals_lookup <- read.csv("lookup.csv")
