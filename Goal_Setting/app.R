@@ -43,7 +43,7 @@ ui <- fluidPage(
       # Show a plot of the generated distribution
       mainPanel(
          #plotOutput("distPlot"),
-        selectInput(inputId = 'survey_type',label = "Survey Type",choices = surveys),
+        selectInput(inputId = 'survey_type',label = "Survey Type",choices = surveyslist),
         rHandsontableOutput("hospitalInfo")
       )
    )
