@@ -155,12 +155,12 @@ shinyServer(function(input, output) {
   
   output$downloadData <- downloadHandler(
     filename <- function() {
-      paste("output", "zip", sep=".")
+      paste("ExpectedCompletesTool", "xlsx", sep=".")
     },
     content <- function(file) {
-      file.copy("out.zip", file)
+      file.copy("ExpectedCompletesExcelTool.xlsx", file)
     },
-    contentType = "application/zip"
+    contentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
   )
   output$mobileratespiel <- renderText({"This is the percentage of phone numbers you collect that are mobile phones. This is an estimation. Data collected by HealthStream has shown this number to typically range from 60-75%. Rural hospitals tend to have lower numbers, urban hospitals tend to have higher numbers. ED facilities tend to have higher rates than outpatient facilities and provider offices (CGCAHPS)."})
   output$emailratespiel <- renderText({"The email capture rate is the percentage of patient records with a valid email address. Non-valid emails (eg Declined@YourHosp.com) will give the illusion of a bigger sample frame, but ultimately will have no effect on completes, and will even be detrimental if you select SMS - patients with email addresses that are not valid will be sent emails they will never receive instead of receiving an SMS."})
