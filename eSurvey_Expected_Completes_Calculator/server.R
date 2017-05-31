@@ -142,7 +142,7 @@ shinyServer(function(input, output) {
   
   output$completesBar <- renderPlot({
     totalvolume <- as.integer(input$sample)
-    limit_right <- round(totalvolume*.1)
+    limit_right <- round(totalvolume*.11)
     emailrate <- input$emailcapturerate
     mobilerate <- input$mobilecapturerate
     ineligiblerate <- ineligibles$Rate[which(ineligibles$SurvType==input$surveytype & ineligibles$Methodology==input$methodology)]
