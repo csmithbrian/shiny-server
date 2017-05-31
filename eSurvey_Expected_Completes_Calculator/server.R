@@ -14,8 +14,8 @@ library(networkD3)
 library(ggplot2)
 
 indefinite_articles <- data.frame('SurvType'=c('CGCAHPS','Outpatient','ED'),'article'=c('a','an','an'))
-ave_email_rates <- data.frame('SurvType'=c('CGCAHPS','Outpatient','ED'),'Rate'=c('58%','27%','19%'))
-ave_mobile_rates <- data.frame('SurvType'=c('CGCAHPS','Outpatient','ED'),'Rate'=c('61%','55%','72%'))
+ave_email_rates <- data.frame('SurvType'=c('CGCAHPS','Outpatient','ED'),'Rate'=c('58%','27%','19%'),'Num'=c(58,27,19))
+ave_mobile_rates <- data.frame('SurvType'=c('CGCAHPS','Outpatient','ED'),'Rate'=c('61%','55%','72%'),'Num'=c(61,55,72))
 ineligibles <- data.frame('SurvType'=rep(c('CGCAHPS','Outpatient','ED'),2),'Methodology'=c(rep('eSurvey',3),rep('eSurvey+SMS',3)),'Rate'=c(0.62,0.66,0.56,0.52,0.40,0.38))
 response_rate_table <- data.frame('SurvType'=rep(c('CGCAHPS','Outpatient','ED'),2),'Methodology'=c(rep('eSurvey',3),rep('eSurvey+SMS',3)),'Rate'=c(0.22,0.19,0.09,0.17,0.09,0.05))
 # Define server logic
@@ -117,6 +117,26 @@ shinyServer(function(input, output) {
     else{
       HTML(paste0("Expected Total Completes: ",email_completes))
     }
+    
+  })
+  
+  output$starting_email_capture_rate <- renderUI({
+    rate <- as.numeric(ave_email_rates$Num[which(ave_email_rates$SurvType==input$surveytype)])
+    sliderInput("emailcapturerate",
+                "Email Capture Rate:",
+                min = 1,
+                max = 99,
+                value = rate)
+    
+  })
+  
+  output$starting_sms_capture_rate <- renderUI({
+    rate2 <- as.numeric(ave_mobile_rates$Num[which(ave_mobile_rates$SurvType==input$surveytype)])
+    sliderInput("mobilecapturerate",
+                "Percentage of Phones Capable of Receiving SMS:",
+                min = 1,
+                max = 99,
+                value = rate2)
     
   })
   
