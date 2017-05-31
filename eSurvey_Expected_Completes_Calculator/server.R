@@ -14,10 +14,10 @@ library(networkD3)
 library(ggplot2)
 
 indefinite_articles <- data.frame('SurvType'=c('CGCAHPS','Outpatient','ED'),'article'=c('a','an','an'))
-ave_email_rates <- data.frame('SurvType'=c('CGCAHPS','Outpatient','ED'),'Rate'=c('56%','59%','57%'))
+ave_email_rates <- data.frame('SurvType'=c('CGCAHPS','Outpatient','ED'),'Rate'=c('58%','27%','19%'))
 ave_mobile_rates <- data.frame('SurvType'=c('CGCAHPS','Outpatient','ED'),'Rate'=c('61%','55%','72%'))
 ineligibles <- data.frame('SurvType'=rep(c('CGCAHPS','Outpatient','ED'),2),'Methodology'=c(rep('eSurvey',3),rep('eSurvey+SMS',3)),'Rate'=c(0.62,0.66,0.56,0.52,0.40,0.38))
-response_rate_table <- data.frame('SurvType'=rep(c('CGCAHPS','Outpatient','ED'),2),'Methodology'=c(rep('eSurvey',3),rep('eSurvey+SMS',3)),'Rate'=c(0.22,0.15,0.07,0.15,0.07,0.04))
+response_rate_table <- data.frame('SurvType'=rep(c('CGCAHPS','Outpatient','ED'),2),'Methodology'=c(rep('eSurvey',3),rep('eSurvey+SMS',3)),'Rate'=c(0.22,0.19,0.09,0.17,0.09,0.05))
 # Define server logic
 shinyServer(function(input, output) {
   sms_dataset <- reactive({
@@ -61,12 +61,14 @@ shinyServer(function(input, output) {
     ineligible_count <- round(as.numeric(totalvolume)*as.numeric(ineligiblerate))
     email <- round(eligibles*(.01*as.numeric(emailrate)))
     responserate <- response_rate_table$Rate[which(response_rate_table$SurvType==input$surveytype & response_rate_table$Methodology==input$methodology)]
-    email_completes <- round(email*as.numeric(responserate))
+    email_responserate <- response_rate_table$Rate[which(response_rate_table$SurvType==input$surveytype & response_rate_table$Methodology=='eSurvey')]
+    sms_responserate <- response_rate_table$Rate[which(response_rate_table$SurvType==input$surveytype & response_rate_table$Methodology=='eSurvey+SMS')]
+    email_completes <- round(email*as.numeric(email_responserate))
     email_noncompletes <- round(email-(email_completes))
     if(input$methodology=='eSurvey+SMS'){
       sms <- round((eligibles-email)*(0.01*as.numeric(mobilerate)))
       no_contact <- round(eligibles-email-sms)
-      sms_completes <- round(sms*as.numeric(responserate))
+      sms_completes <- round(sms*as.numeric(sms_responserate))
       sms_noncompletes <- round(sms-sms_completes)
       nodes <- data.frame("name"=c(paste0('Total (',totalvolume,')'),'','Eligible','Ineligible to participate in survey','Eligible patients with email','Eligible patients with mobile phone #',
                                    'No contact info','Expected email completes','Expected sms completes','No response to email invite','No response to sms invite'))
@@ -103,9 +105,11 @@ shinyServer(function(input, output) {
       no_contact <- round(eligibles-email)
     }
     responserate <- response_rate_table$Rate[which(response_rate_table$SurvType==input$surveytype & response_rate_table$Methodology==input$methodology)]
-    email_completes <- round(email*as.numeric(responserate))
+    email_responserate <- response_rate_table$Rate[which(response_rate_table$SurvType==input$surveytype & response_rate_table$Methodology=='eSurvey')]
+    sms_responserate <- response_rate_table$Rate[which(response_rate_table$SurvType==input$surveytype & response_rate_table$Methodology=='eSurvey+SMS')]
+    email_completes <- round(email*as.numeric(email_responserate))
     email_noncompletes <- round(email-(email_completes))
-    sms_completes <- round(sms*as.numeric(responserate))
+    sms_completes <- round(sms*as.numeric(sms_responserate))
     sms_noncompletes <- round(sms-sms_completes)
     if(input$methodology=='eSurvey+SMS'){
       HTML(paste0("Expected Total Completes: ",sms_completes+email_completes,"  (Expected Email Completes: ",email_completes,";"," Expected SMS Completes: ",sms_completes,")"))
@@ -126,12 +130,14 @@ shinyServer(function(input, output) {
     ineligible_count <- round(as.numeric(totalvolume)*as.numeric(ineligiblerate))
     email <- round(eligibles*(.01*as.numeric(emailrate)))
     responserate <- response_rate_table$Rate[which(response_rate_table$SurvType==input$surveytype & response_rate_table$Methodology==input$methodology)]
-    email_completes <- round(email*as.numeric(responserate))
+    email_responserate <- response_rate_table$Rate[which(response_rate_table$SurvType==input$surveytype & response_rate_table$Methodology=='eSurvey')]
+    sms_responserate <- response_rate_table$Rate[which(response_rate_table$SurvType==input$surveytype & response_rate_table$Methodology=='eSurvey+SMS')]
+    email_completes <- round(email*as.numeric(email_responserate))
     email_noncompletes <- round(email-(email_completes))
     if(input$methodology=='eSurvey+SMS'){
       sms <- round((eligibles-email)*(0.01*as.numeric(mobilerate)))
       no_contact <- round(eligibles-email-sms)
-      sms_completes <- round(sms*as.numeric(responserate))
+      sms_completes <- round(sms*as.numeric(sms_responserate))
       sms_noncompletes <- round(sms-sms_completes)
       non_completes <- totalvolume-(email_completes-sms_completes)
       colors1 <- c("#66CC99","#0eaf5f")
