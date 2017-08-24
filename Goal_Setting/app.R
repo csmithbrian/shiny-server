@@ -14,6 +14,7 @@ question_dropdown <- c("Overall Rating","Likelihood to Recommend","Employee Sati
 surveys <- c('Inpatient','Outpatient','ED','OP SDS/ASC','CGCAHPS(Phone 12M)','CGCAHPS(Phone Visit)','CGCAHPS(eSurvey 12M)','CGCAHPS(eSurvey Visit)','CG-CAHPS Visit Child','CG-CAHPS ACO','Adult PCMH','Child PCMH','Home Health','OP Behavioral','IP Behavioral','IP Rehab','OP Rehab','ED Peds','OP Peds','IP Peds','NICU','PCA','Hemodialysis','Urgent Care','Walk-In Clinic','IP Long term Care','Employee Insights','Physician Insights')
 surveyslist <- list("Patient" = c('Inpatient','Outpatient','ED','OP SDS/ASC','Home Health','OP Behavioral','IP Behavioral','IP Rehab','OP Rehab','ED Peds','OP Peds','IP Peds','NICU','PCA','Hemodialysis','Urgent Care','Walk-In Clinic','IP Long term Care'),"CGCAHPS" = c('CGCAHPS(Phone 12M)','CGCAHPS(Phone Visit)','CGCAHPS(eSurvey 12M)','CGCAHPS(eSurvey Visit)','CG-CAHPS Visit Child','CG-CAHPS ACO','Adult PCMH','Child PCMH'),"Employee and Physician" = c('Employee Insights','Physician Insights'))
 surveygroups <- data.frame(survey=surveys,group=c('Inpatient','OP / SDS','ED','OP / SDS','CG','CG','CG','CG','CG','CG','CG','CG','Other Patient','Other Patient','Other Patient','Inpatient','OP / SDS','ED','OP / SDS','Inpatient','Other Patient','Other Patient','Other Patient','ED','Other Patient','Other Patient','Employee','Physician'))
+surveylookup <- data.frame(SurveyType=surveygroups$survey,SurveyGroup=surveygroups$group)
 
 goals_lookup <- read.csv("lookup.csv")
 
@@ -43,7 +44,7 @@ ui <- fluidPage(
       # Show a plot of the generated distribution
       mainPanel(
          #plotOutput("distPlot"),
-        selectInput(inputId = 'survey_type',label = "Survey Type",choices = surveyslist),
+        #selectInput(inputId = 'survey_type',label = "Survey Type",choices = surveyslist),
         rHandsontableOutput("hospitalInfo")
       )
    )
@@ -73,8 +74,14 @@ server <- function(input, output) {
     }
     #new <- DF
     #DF[,5] <- goals_lookup$Goal_Standard[match(DF[,4],goals_lookup$LowerBound)]#new[] <- 
-    DF <- merge(DF[,c(1,2,3,4,5)],goals_lookup,all.x = TRUE,all.y = FALSE,by.x = c("Question","Survey","Percentile"),by.y = c("Question","SurveyType","Percentile"),sort = FALSE)
-    DF <- DF[,c(1,2,4,5,3,6,7,8)]
+    #DF <- merge(DF,surveylookup,by="SurveyType")
+    if(!is.null(DF$Survey)){
+      survtype <- DF$Survey
+      survgroup <- surveylookup$SurveyGroup[match(survtype,surveylookup$SurveyType)]
+      DF$SurveyGroup <- survgroup
+    }
+    DF <- merge(DF[,c(1,2,3,4,5,9)],goals_lookup,all.x = TRUE,all.y = FALSE,by.x = c("Question","SurveyGroup","Percentile"),by.y = c("Question","SurveyType","Percentile"),sort = FALSE)
+    DF <- DF[,c(1,4,5,6,3,7,8,9)]
     values[["DF"]] <- DF
   })
   
@@ -88,6 +95,7 @@ server <- function(input, output) {
     DF <- values[["DF"]]
     if(!is.null(DF))
       rhandsontable(DF,stretchH = "none") %>% #,stretchH = "all"
+      hot_cols(columnSorting=FALSE) %>%
       hot_col("Top.Box", format = "0.0%")
   }) 
   
