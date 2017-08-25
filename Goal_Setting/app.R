@@ -27,9 +27,9 @@ ui <- fluidPage(
    titlePanel("Goal Setting Tool"),
    
    # Sidebar with a slider input for number of bins 
-   # sidebarLayout(
-   #    sidebarPanel(
-   #      
+    #sidebarLayout(
+    #   sidebarPanel(
+               
    #      selectInput("surveytype",'Survey Type:',
    #                  c('Inpatient','Outpatient','ED','OP SDS/ASC','CGCAHPS(Phone 12M)','CGCAHPS(Phone Visit)','CGCAHPS(eSurvey 12M)','CGCAHPS(eSurvey Visit)','CG-CAHPS Visit Child','CG-CAHPS ACO','Adult PCMH','Child PCMH','Home Health','OP Behavioral','IP Behavioral','IP Rehab','OP Rehab','ED Peds','OP Peds','IP Peds','NICU','PCA','Hemodialysis','Urgent Care','Walk-In Clinic','IP Long term Care','Employee Insights','Physician Insights')),
    #      
@@ -43,8 +43,8 @@ ui <- fluidPage(
       
       # Show a plot of the generated distribution
       mainPanel(
-         #plotOutput("distPlot"),
-        #selectInput(inputId = 'survey_type',label = "Survey Type",choices = surveyslist),
+        actionButton("save", "Save Table"),
+        downloadButton("downloadData", label = "Export Saved Table to File"),
         rHandsontableOutput("hospitalInfo")
       )
    )
@@ -52,7 +52,7 @@ ui <- fluidPage(
 
 # Define server logic required to draw a histogram
 server <- function(input, output) {
-  
+  if(file.exists('Goal Setting.csv')) file.remove('Goal Setting.csv')
   values <- reactiveValues(DF = data.frame('Survey' = rep(factor(surveys)[1],10),
                                            'Question' = rep(factor(question_dropdown)[1],10),
                                            'Facility.Name' = rep("Name",10),
@@ -62,7 +62,8 @@ server <- function(input, output) {
                                            Aggressive.Goal = rep(0.0,10),
                                            Stretch.Goal = rep(0.0,10),
                                            stringsAsFactors = FALSE))
-  
+
+    
   observe({
     if (!is.null(input$hospitalInfo)) {
       DF = hot_to_r(input$hospitalInfo)
@@ -83,7 +84,10 @@ server <- function(input, output) {
     DF <- merge(DF[,c(1,2,3,4,5,9)],goals_lookup,all.x = TRUE,all.y = FALSE,by.x = c("Question","SurveyGroup","Percentile"),by.y = c("Question","SurveyType","Percentile"),sort = FALSE)
     DF <- DF[,c(1,4,5,6,3,7,8,9)]
     values[["DF"]] <- DF
+    
   })
+  
+  
   
   observe({
     if(!is.null(input$hospitalInfo))
@@ -95,9 +99,59 @@ server <- function(input, output) {
     DF <- values[["DF"]]
     if(!is.null(DF))
       rhandsontable(DF,stretchH = "none") %>% #,stretchH = "all"
-      hot_cols(columnSorting=FALSE) %>%
-      hot_col("Top.Box", format = "0.0%")
+      hot_table(contextMenu=TRUE,exportToCsv=TRUE) #%>%
+      #hot_cols(columnSorting=FALSE) %>%
+      #hot_col("Top.Box", format = "0.0%")
   }) 
+  
+  # output$save <- downloadHandler(
+  #   filename = function() {
+  #     'Goal_Setting.csv'
+  #   },
+  #   # what should go in place of table
+  #   content = function(file) {
+  #     write.csv(hot_to_r(input$hospitalInfo), file)
+  #   }
+  # )
+  
+  observeEvent(input$save, {
+   finalDF <- isolate(values[["DF"]])
+   #saveRDS(finalDF, file=file.path(getwd(), sprintf("%s.rds", "Goal_Setting")))
+   write.csv(finalDF,"Goal Setting.csv")
+  })
+  
+  output$downloadData <- downloadHandler(
+    filename <- function() {
+      paste("Goal_Setting", "csv", sep=".")
+    },
+    content <- function(file) {
+      file.copy("Goal Setting.csv", file)
+    }
+    #contentType = "application/zip"
+  )
+  
+  
+  #   observe({
+  #   # remove button and isolate to update file automatically
+  #   # after each table change
+  #   input$save
+  #   fpath = paste0(getwd(),"/","Goal_Setting_",gsub(":","-",Sys.time()),".csv") #tempfile(fileext = ".csv")
+  #   fname = substr(fpath,28,nchar(fpath))
+  #   hot = isolate(input$hospitalInfo)
+  #   if (!is.null(hot)) {
+  #     write.csv(hot_to_r(input$hospitalInfo), fpath)
+  #     #print(fpath)
+  #     output$save <- downloadHandler(
+  #       filename = fname,
+  #       content <- function(file) {
+  #         file.copy(fname, file)
+  #       },
+  #       contentType = "application/zip"
+  #     )
+  #     if(file.exists(fpath)) file.remove(fpath)
+  #   }
+  # })
+  
   
   output$addingrowstext <- renderText("To add or remove rows, right click anywhere on the table and select either Insert Row above/below or Remove Row")
 
