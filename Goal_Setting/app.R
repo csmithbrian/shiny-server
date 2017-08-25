@@ -27,28 +27,35 @@ ui <- fluidPage(
    titlePanel("Goal Setting Tool"),
    
    # Sidebar with a slider input for number of bins 
-    #sidebarLayout(
-    #   sidebarPanel(
-               
+    sidebarLayout(
+       sidebarPanel(
+         textOutput("Downloading"),
+         HTML(paste0("<br/>")),
+         textOutput("AboutGoalSetting"),
+         HTML(paste0("<br/>")),
+         textOutput("HowTo"),
+         HTML(paste0("<br/>")),
+         actionButton("save", "Save Table"),
+         downloadButton("downloadData", label = "Export Saved Table to File") 
+         
    #      selectInput("surveytype",'Survey Type:',
    #                  c('Inpatient','Outpatient','ED','OP SDS/ASC','CGCAHPS(Phone 12M)','CGCAHPS(Phone Visit)','CGCAHPS(eSurvey 12M)','CGCAHPS(eSurvey Visit)','CG-CAHPS Visit Child','CG-CAHPS ACO','Adult PCMH','Child PCMH','Home Health','OP Behavioral','IP Behavioral','IP Rehab','OP Rehab','ED Peds','OP Peds','IP Peds','NICU','PCA','Hemodialysis','Urgent Care','Walk-In Clinic','IP Long term Care','Employee Insights','Physician Insights')),
    #      
    #      wellPanel(
    #        h3("Table options"),
    #        radioButtons("useType", "Use Data Types", c("TRUE", "FALSE"))
-   #    )
+       ),
    #   
    #    
-   #    ),
+       
       
       # Show a plot of the generated distribution
       mainPanel(
-        actionButton("save", "Save Table"),
-        downloadButton("downloadData", label = "Export Saved Table to File"),
+        
         rHandsontableOutput("hospitalInfo")
       )
    )
-
+)
 
 # Define server logic required to draw a histogram
 server <- function(input, output) {
@@ -131,30 +138,12 @@ server <- function(input, output) {
   )
   
   
-  #   observe({
-  #   # remove button and isolate to update file automatically
-  #   # after each table change
-  #   input$save
-  #   fpath = paste0(getwd(),"/","Goal_Setting_",gsub(":","-",Sys.time()),".csv") #tempfile(fileext = ".csv")
-  #   fname = substr(fpath,28,nchar(fpath))
-  #   hot = isolate(input$hospitalInfo)
-  #   if (!is.null(hot)) {
-  #     write.csv(hot_to_r(input$hospitalInfo), fpath)
-  #     #print(fpath)
-  #     output$save <- downloadHandler(
-  #       filename = fname,
-  #       content <- function(file) {
-  #         file.copy(fname, file)
-  #       },
-  #       contentType = "application/zip"
-  #     )
-  #     if(file.exists(fpath)) file.remove(fpath)
-  #   }
-  # })
   
   
   output$addingrowstext <- renderText("To add or remove rows, right click anywhere on the table and select either Insert Row above/below or Remove Row")
-
+  output$Downloading <- renderText({"To save this table to a csv/excel file, first press save, then press export."})
+  output$AboutGoalSetting <- renderText({"Blurb about goal setting"})
+  output$HowTo <- renderText({"Blurb about how to use this tool"})
 }
 
 # Run the application 
